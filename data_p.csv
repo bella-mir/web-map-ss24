@@ -1,0 +1,676 @@
+,Cafe_link-href,Adress_clean,lat,lon
+0,https://moskvichmag.ru/restorany-i-bary/kefi-na-meste-doma-12-predlagaet-grecheskuyu-edu-ostorozhno-chtoby-ne-trevozhit-prezhnij-duh-mesta/,"г Москва, пер Мансуровский, д 12",55.7406278,37.5928489
+1,https://moskvichmag.ru/restorany-i-bary/myst-na-belorusskoj-bar-s-tantsami-vid-na-sad-i-brusketty-s-neglasnym-devizom-um-otest/,"г Москва, ул 1-я Брестская, д 41",55.7732291,37.5875096
+2,https://moskvichmag.ru/restorany-i-bary/bistro-ester-na-b-nikitskoj-prevratilos-v-bar-ostaviv-tel-avivskie-nastroeniya-v-ede/,"г Москва, ул Большая Никитская, д 22/2",55.7570144,37.6028697
+3,https://moskvichmag.ru/restorany-i-bary/v-abbe-brasserie-na-tsvetnom-podayut-pivo-vafli-i-pochemu-to-humus/,"г Москва, б-р Цветной, д 2",55.7679448,37.6234744
+4,https://moskvichmag.ru/restorany-i-bary/v-jane-posle-obnovleniya-menyu-fokachcha-s-pesto-rikottoj-i-tomatami-vyglyadit-kak-puhlyj-flag-italii/,"г Москва, пер Спиридоньевский, д 9 стр 1",55.7624439,37.5941675
+5,https://moskvichmag.ru/restorany-i-bary/v-saray-gotovyat-baskskie-i-kavkazskie-blyuda-na-otkrytom-ogne-s-sootvetstvuyushhim-temperamentom/,"г Москва, пер Гранатный, д 19",55.7599528,37.5874042
+6,https://moskvichmag.ru/restorany-i-bary/v-soma-na-petrovskom-novyj-shef-i-menyu-prizyvayushhee-ne-propuskat-sezon-inzhira/,"г Москва, б-р Петровский, д 14",55.7671553,37.6198761
+8,https://moskvichmag.ru/restorany-i-bary/kafe-alenka-kormit-zavtrakami-zamanivaya-nostalgiruyushhih-po-sssr/,"г Москва, б-р Страстной, д 2",55.765031,37.6070651
+9,https://moskvichmag.ru/restorany-i-bary/nuzhno-poobedat-so-vzroslymi-rodstvennikami-italyanskij-capo-na-b-dmitrovke-podojdet-idealno/,"г Москва, ул Дмитровка Б., д 5/6 стр 1",55.7596122,37.6155805
+10,https://moskvichmag.ru/restorany-i-bary/olive-s-vodoroslyami-nori-v-novom-menyu-brasserie-lambic-prazdnika-ne-obeshhaet/,"г Москва, б-р Ходынский, д 2",55.7893342,37.5367955
+11,https://moskvichmag.ru/restorany-i-bary/pitstsa-schaste-vegana-i-baton-za-13-kop-kak-perezagruzilas-pervaya-bulka-na-b-gruzinskoj/,"г Москва, ул Большая Грузинская, д 69",55.77396,37.586293
+12,https://moskvichmag.ru/restorany-i-bary/tartaletka-s-lisichkami-v-atelier-de-tartelettes-nastoyashhaya-poema-pod-nazvaniem-schaste/,"г Москва, пер Спиридоньевский, д 10А стр 1",55.7626113,37.5957369
+13,https://moskvichmag.ru/restorany-i-bary/salyut-myasnitskaya-s-peterburgskim-aktsentom-otkrylsya-kogda-moskva-uzhe-naelas-fudkortami/,"г Москва, ул Мясницкая",55.7646478,37.6368848
+14,https://moskvichmag.ru/restorany-i-bary/syr-iz-myshelovki-i-skony-s-belym-izyumom-v-semejnom-robine-v-peredelkino-prosto-skazochno/,"г Москва, Внуковское п, п Переделкино, ул Погодина, д 4",55.6554905,37.3304319
+15,https://moskvichmag.ru/restorany-i-bary/blizhnij-vostok-queens-okazalsya-patriarshim-blizhe-vegetarianstva-avocado-queen/,"г Москва, ул Бронная М., д 20 стр 1",55.7622734,37.5957688
+16,https://moskvichmag.ru/restorany-i-bary/v-layerz-cafe-v-b-kislovskom-dazhe-ponyatnyj-kurinyj-sup-prevrashhen-v-lakomstvo/,"г Москва, пер Большой Кисловский, д 6",55.754458,37.6066955
+17,https://moskvichmag.ru/restorany-i-bary/v-pasta-queen-konechno-vse-zakazyvayut-pikkolo-dikkolo-pastu-s-lososem-dlya-vzroslyh/,"г Москва, ул Кузнецкий Мост, д 19 стр 1",55.7625355,37.6257657
+18,https://moskvichmag.ru/restorany-i-bary/v-holodke-rakushkam-mollyuskam-ikre-i-rybe-ochen-idut-interery-starogo-doma-na-prechistenke/,"г Москва, ул Пречистенка, д 24/1",55.7417802,37.5936312
+19,https://moskvichmag.ru/restorany-i-bary/v-bare-shalyapin-v-lobbi-metropolya-podayut-chaj-s-blinami-ikroj-i-vatrushkami-za-beshenye-dengi/,"г Москва, проезд Театральный, д 2",55.7584522,37.6215872
+20,https://moskvichmag.ru/restorany-i-bary/v-kafe-malinovka-v-parke-sokolniki-mozhno-poobedat-morskimi-ezhami-po-300-rublej/,"г Москва, проезд Сокольнического Круга, д 7",55.7948813,37.6788363
+23,https://moskvichmag.ru/restorany-i-bary/tost-s-inzhirom-i-bokal-igristogo-zavtraki-v-cutta-cutta-predlagayut-dezhurnyj-nabor-patriarshih/,"г Москва, пер Козихинский Б., д 10",55.7628924,37.597491
+24,https://moskvichmag.ru/restorany-i-bary/udivitelno-no-samym-vkusnym-eklerom-v-eklernoj-allo-allo-okazalsya-s-salatom-olive/,"г Москва, Внуковское п, п дск Мичуринец, ул Погодина, д 4",55.6569966,37.3335823
+25,https://moskvichmag.ru/restorany-i-bary/futuramen-na-pyatnitskoj-budushhee-tehnologichno-no-priyatno-na-vkus-i-ne-bet-po-koshelku/,"г Москва, ул Пятницкая, д 26",55.7410295,37.6283067
+26,https://moskvichmag.ru/restorany-i-bary/germes-predlagaet-blyuda-po-400-rublej-i-etim-vygodno-otlichaetsya-ot-sosedej-po-beloj-ploshhadi/,"г Москва, ул Лесная, д 7",55.7787345,37.5880311
+28,https://moskvichmag.ru/restorany-i-bary/esli-najti-reflor-v-chistoprudnyh-dvorah-to-ujti-budet-eshhe-slozhnee-nastolko-tam-horosho/,"г Москва, б-р Чистопрудный, д 23 стр 2",55.7606293,37.6471601
+29,https://moskvichmag.ru/restorany-i-bary/iz-za-twin-tigers-chuvstvuesh-sebya-v-depo-kak-na-fudkorte-v-aeroportu-bangkoka/,"г Москва, ул Лесная, д 20 стр 3",55.7801994,37.5929871
+30,https://moskvichmag.ru/restorany-i-bary/luchshaya-eda-letom-v-moskve-ogromnyj-salat/,"г Москва, б-р Покровский, д 16-18 стр 4-4а",55.753179,37.646435
+31,https://moskvichmag.ru/restorany-i-bary/myasnaya-kulinariya-musya-i-vtoroe-na-nikitskom-rasschitana-na-ubezhdennyh-holostyakov/,"г Москва, б-р Никитский, д 25",55.7569773,37.5981172
+34,https://moskvichmag.ru/restorany-i-bary/hleb-za-530-rublej-da-esli-eto-hleb-s-chernym-chesnokom-ot-pekarni-pechorin/,"г Москва, ул Новочерёмушкинская, д 17",55.6837397,37.5821155
+35,https://moskvichmag.ru/restorany-i-bary/narnia-okazalas-restoranom-dlya-selfi-devushek-ne-umeyushhih-est-bez-svoih-komnatnyh-sobachek/,"г Москва, ул Большая Бронная, д 2/6",55.7600684,37.5975227
+36,https://moskvichmag.ru/restorany-i-bary/omela-sofi-meladze-na-ostozhenke-dorogo-vkusno-i-osnovatelno/,"г Москва, пер Пожарский, д 3",55.7403038,37.6043846
+37,https://moskvichmag.ru/restorany-i-bary/kollektiv-narkomfin-bolshe-pohozh-na-mnogoetazhnyj-nochnoj-klub-chem-na-restoran/,"г Москва, б-р Новинский, д 25-27 стр 12",55.757111,37.583086
+38,https://moskvichmag.ru/restorany-i-bary/blagodarya-wontoneria-teper-na-chistyh-prudah-mozhno-pochuvstvovat-sebya-kak-v-shanhae/,"г Москва, б-р Чистопрудный, д 12 стр 6",55.7616178,37.6420767
+40,https://moskvichmag.ru/restorany-i-bary/v-kafe-kulek-na-bolshoj-nikitskoj-gotovyat-evropejskij-fastfud-v-vide-lepeshek-s-nachinkami/,"г Москва, ул Большая Никитская, д 23/14, кв 9",55.7571128,37.5994078
+41,https://moskvichmag.ru/restorany-i-bary/za-smesyu-frantsuzskogo-s-aziatskim-v-podvalnom-bistro-rouge-mozhno-provesti-tselyj-den/,"г Москва, ул Большая Никитская, д 14/7 стр 2",55.7570643,37.6062847
+43,https://moskvichmag.ru/restorany-i-bary/novyj-restoran-moro-teleportiruet-vas-s-kamergerskogo-pereulka-na-sredizemnoe-more/,"г Москва, пер Камергерский, д 6/5 стр 3",55.759927,37.614132
+44,https://moskvichmag.ru/restorany-i-bary/cutta-cutta-kogda-chuvstvuesh-sebya-na-patriarshih-kak-na-piknike-v-pole/,"г Москва, пер Козихинский Б., д 10",55.7628924,37.597491
+45,https://moskvichmag.ru/restorany-i-bary/kak-korabl-nazovesh-na-verande-vtorogo-she-na-beloj-ploshhadi-opyat-odni-shes/,"г Москва, ул Бутырский Вал, д 10",55.7784483,37.5858454
+46,https://moskvichmag.ru/restorany-i-bary/modniki-pomeshany-na-zastoe-zapivayut-kotlety-s-pyure-koktejlyami-fartsovshhik-i-manekenshhitsa/,"г Москва, ул Маросейка, д 9/2 стр 1",55.7577639,37.6340877
+47,https://moskvichmag.ru/restorany-i-bary/v-bageatteria-hochetsya-kupit-vse-i-grechnevyj-hleb-i-desertnyj-baget-i-briosh-i-keksy/,"г Москва, ул Лесная, д 20 стр 3",55.7801994,37.5929871
+48,https://moskvichmag.ru/restorany-i-bary/v-mamie-na-b-nikitskoj-mnogo-sveta-prostranstva-bezzabotnosti-i-velikolepnyj-antrekot/,"г Москва, ул Большая Никитская, д 14/2",55.7570643,37.6062847
+50,https://moskvichmag.ru/restorany-i-bary/meksikanskij-stritfud-shapulines-na-usachevskom-tak-populyaren-i-horosh-chto-sobiraet-ocheredi/,"г Москва, пер Усачёвский",55.7271354,37.5672254
+51,https://moskvichmag.ru/restorany-i-bary/moskovskij-falafel-sezona-ishhite-v-menyu-letnej-kafeshki-na-patriarshih/,"г Москва, пер Спиридоньевский, д 9 стр 1",55.7624439,37.5941675
+52,https://moskvichmag.ru/restorany-i-bary/otelnyj-restoran-motsart-goditsya-dlya-tajnyh-svidanij-tam-vas-ne-najdet-nikto/,"г Москва, пер Вознесенский, д 7",55.7579669,37.6041497
+53,https://moskvichmag.ru/restorany-i-bary/persiana-redkij-restoran-s-blizhnevostochnoj-kuhnej-v-moskve-v-kotorom-raduyut-tseny/,"г Москва, ул Пятницкая, д 26",55.7410295,37.6283067
+54,https://moskvichmag.ru/restorany-i-bary/kurinaya-liga-ocherednaya-popytka-zapustit-kuritsu-v-narod/,"г Москва, ул Новослободская, д 36/1 стр 1",55.7842415,37.5971492
+55,https://moskvichmag.ru/restorany-i-bary/bar-tabi-na-solyanke-gostinaya-dlya-teh-kto-ishhet-chego-to-bolee-originalnogo/,"г Москва, ул Солянка, д 1/2 стр 1",55.7538589,37.637931
+56,https://moskvichmag.ru/restorany-i-bary/v-izrailskom-bistro-beseder-ne-progadaesh-s-kebabom-iz-yagnenka-i-morozhenym-s-olivkovym-maslom/,"г Москва, пер Малый Патриарший, д 5 стр 1",55.7633491,37.5912377
+57,https://moskvichmag.ru/restorany-i-bary/zabudte-na-den-o-dietah-i-seshte-gril-chiz-so-shpinatom-v-junkle-na-tsentralnom-rynke/,"г Москва, б-р Рождественский, д 1",55.7668089,37.6242515
+58,https://moskvichmag.ru/restorany-i-bary/na-kryshe-lila-arabic-na-sretenke-horosho-sidet-vse-leto-s-meze-tabule-i-shashlykami/,"г Москва, ул Сретенка, д 22/1 стр 1",55.7694292,37.6326177
+59,https://moskvichmag.ru/restorany-i-bary/pashtel-de-nata-v-kofejne-noba-vpolne-povod-zaehat-na-usachevskij-rynok-spetsialno/,"г Москва, ул Усачёва, д 26",55.727506,37.567707
+60,https://moskvichmag.ru/restorany-i-bary/pivnaya-repetitsiya-razvlekaet-studentov-stendapami-i-kormit-plohoj-edoj/,"г Москва, ул Новослободская, д 18",55.7823102,37.5994064
+61,https://moskvichmag.ru/restorany-i-bary/introvert-ne-vyderzhal-prevratilsya-v-herennow-i-kormit-prilichnym-anglijskim-zavtrakom/,"г Москва, ул Мясницкая, д 41 стр 3",55.7684225,37.6426459
+62,https://moskvichmag.ru/restorany-i-bary/biznes-lanch-eto-skuchno-vmesto-nih-jojo-bar-podaet-yaponskie-kompleksnye-menyu-v-bento-boksah/,"г Москва, ул Сретенка, д 36",55.7714183,37.6330643
+63,https://moskvichmag.ru/restorany-i-bary/v-chajnoj-komnate-na-pyatnitskoj-tri-v-odnom-chajnye-tseremonii-koktejli-i-dimsamy-s-gedza/,"г Москва, ул Пятницкая, д 6/1",55.7444543,37.6274069
+64,https://moskvichmag.ru/restorany-i-bary/v-po-horoshemu-burzhuaznom-trinity-cocktail-club-na-myasnitskoj-kormyat-smelym-naborom-tapas/,"г Москва, ул Мясницкая, д 14/2 стр 1",55.760753,37.6320666
+65,https://moskvichmag.ru/restorany-i-bary/v-restorane-lapot-na-b-dmitrovke-vse-nastolko-russkoe-chto-hochetsya-nachat-s-ryumki-vodki/,"г Москва, ул Дмитровка Б., д 11",55.7619457,37.6137678
+66,https://moskvichmag.ru/restorany-i-bary/iz-ryumochnoj-falstart-nelzya-uhodit-bez-gulyasha-myasnoj-konfety-i-shkvarok/,"г Москва, пер Большой Путинковский, д 5",55.7671435,37.6076883
+67,https://moskvichmag.ru/restorany-i-bary/katsu-s-govyadinoj-i-pohmelnye-supy-novoe-menyu-mandys-apothecary-poluchilos-aziatskim/,"г Москва, ул Кузнецкий Мост, д 19 стр 1",55.7625355,37.6257657
+68,https://moskvichmag.ru/restorany-i-bary/kofejnya-aprel-idealno-podhodit-dlya-dlinnogo-utra-s-knigoj-i-beskonechnym-kofe/,"г Москва, ул 4-я Тверская-Ямская, д 6/12",55.7724995,37.5975786
+69,https://moskvichmag.ru/restorany-i-bary/novyj-shef-manuele-antonio-kroche-horoshij-povod-zajti-na-rizotto-so-smorchkami-v-seven/,"г Москва, пер Дмитровский, д 7",55.7622593,37.6161308
+70,https://moskvichmag.ru/restorany-i-bary/uspehu-interesnogo-midsummer-s-avtorskoj-kuhnej-mozhet-pomeshat-tolko-ne-ochen-udachnyj-adres/,"г Москва, проезд Мясницкий, д 2/1",55.7684211,37.6462367
+71,https://moskvichmag.ru/restorany-i-bary/bar-kult-turizm-hochet-chtoby-vy-pochuvstvovali-sebya-puteshestvennikom-ostavayas-doma/,"г Москва, ул Новослободская, д 16А",55.782182,37.599911
+72,https://moskvichmag.ru/restorany-i-bary/v-grande-na-ostozhenke-mnogo-vkusnyh-desertov-spasayut-bezglyutenovye-vafli-i-pankejki/,"г Москва, ул Остоженка, д 7 стр 1",55.7430168,37.6009101
+73,https://moskvichmag.ru/restorany-i-bary/v-bare-kosmohomyak-podayut-koktejli-s-nazvaniyami-planet-posle-kotoryh-mozhno-i-ne-uzhinat/,"г Москва, ул Дмитровка Б., д 32 стр 2",55.7654901,37.6115184
+74,https://moskvichmag.ru/restorany-i-bary/v-skazochnoj-peshhere-s-sokrovishhami-na-neglinnoj-loomi-imeet-smysl-zakazat-lyulya-kebab-iz-krevetok/,"г Москва, ул Неглинная, д 8/10",55.7614578,37.6205839
+76,https://moskvichmag.ru/restorany-i-bary/esli-vam-vdrug-zahotelos-doshiraka-s-chernoj-ikroj-za-1800-rub-dobro-pozhalovat-v-uni/,"г Москва, ул Большая Бронная, д 22",55.7626489,37.6005387
+77,https://moskvichmag.ru/restorany-i-bary/za-vanilnym-shu-v-jinju-stoit-priezzhat-s-drugogo-kontsa-moskvy/,"г Москва, пер 4-й Кожевнический, д 4",55.7250854,37.6491429
+78,https://moskvichmag.ru/restorany-i-bary/izobilie-sladkogo-v-konditorii-rombaba-paralizuet-volyu-lyubogo/,"г Москва, ул Архитектора Щусева, д 3",55.6988153,37.636185
+80,https://moskvichmag.ru/restorany-i-bary/pashalnyj-nabor-fermy-raznuzdannye-skotiny-predlagaet-otmetit-pashu-pastrami-i-mortadelloj/,"г Москва, пер Авиационный",55.8000656,37.5389666
+81,https://moskvichmag.ru/restorany-i-bary/tsvety-lavandy-uluchshayut-vkus-hot-sharlotki-hot-tsyplenka-glavnoe-ne-pereborshhit/,"г Москва, пр-кт Кутузовский, д 1",55.7497936,37.5707433
+82,https://moskvichmag.ru/restorany-i-bary/russian-wine-barshop-ne-rasteryal-pri-pereezde-na-balchug-reputatsiyu-propagandista-nashego-vina/,"г Москва, ул Балчуг, д 3/2",55.7476975,37.6258899
+83,https://moskvichmag.ru/restorany-i-bary/bistro-rebecca-na-frunzenskoj-kak-budto-otkryli-predstaviteli-evrejskoj-obshhiny-v-parizhe/,"г Москва, Щаповское п, п Щапово, ул Садовый Квартал, д 10 к 1",55.4195347,37.4029272
+84,https://moskvichmag.ru/restorany-i-bary/v-sempre-privychnye-koktejli-dopolneny-russkimi-nastojkami-i-dazhe-sovetskimi-multfilmami/,"г Москва, ул Дмитровка Б., д 22 стр 1",55.7634655,37.6131942
+85,https://moskvichmag.ru/restorany-i-bary/v-lampopo-po-studencheski-deshevye-koktejli-na-pive-i-zakuski-ne-dlya-slabonervnyh/,"г Москва, ул Большая Лубянка, д 23/22",55.763393,37.6290106
+86,https://moskvichmag.ru/restorany-i-bary/v-bare-leda-kosmicheskaya-tema-v-interere-i-eda-pod-tantsy-v-menyu/,"г Москва, пер Большой Харитоньевский, д 21 стр 3",55.7665841,37.6503775
+87,https://moskvichmag.ru/restorany-i-bary/v-magazin-kosher-gurme-stoit-spetsialno-zaehat-za-sloenym-izrailskim-lavashem/,"г Москва, ул Новосущёвская, д 15",55.7909099,37.6035734
+88,https://moskvichmag.ru/restorany-i-bary/v-novom-oz-kebab-na-chistyh-prudah-uvesistye-portsii-na-tarelke-i-sytye-schastlivye-lyudi-vokrug/,"г Москва, пер Кривоколенный, д 9 стр 3",55.7627733,37.6379324
+90,https://moskvichmag.ru/restorany-i-bary/v-obnovlennom-menyu-lambic-seafood-ishhite-salat-s-ohlazhdennym-tuntsom-etakij-russkij-nisuaz/,"г Москва, пер Гнездниковский М., д 12",55.7626214,37.6066361
+91,https://moskvichmag.ru/restorany-i-bary/v-perezapushhennom-restorane-ges-2-zdorovaya-italyanskaya-eda-v-intererah-doma-kultury/,"г Москва, наб Болотная, д 15",55.7426245,37.6118556
+92,https://moskvichmag.ru/restorany-i-bary/vkradchivoe-osveshhenie-svezhie-lilii-i-petuh-v-vine-shanuar-dellosa-idealen-dlya-svidanij/,"г Москва, б-р Тверской, д 26",55.7633423,37.6045892
+93,https://moskvichmag.ru/restorany-i-bary/novyj-restoran-gino-v-tsvetnom-prednaznachen-dlya-utomlennyh-shopingom/,"г Москва, б-р Цветной, д 15 стр 1",55.7711641,37.6202241
+94,https://moskvichmag.ru/restorany-i-bary/restoran-jane-umudrilsya-dazhe-borshh-i-pelmeni-sdelat-elitarnymi/,"г Москва, пер Спиридоньевский, д 9 стр 1",55.7624439,37.5941675
+95,https://moskvichmag.ru/restorany-i-bary/set-chajnyh-nftea-beret-bolshimi-obemami-i-svezhim-podhodom-k-privychnym-napitkam/,"г Москва, ул Тверская, д 19",55.7650561,37.6035414
+96,https://moskvichmag.ru/restorany-i-bary/036-kebab-umudryaetsya-sovmeshhat-v-sebe-stil-kebabnoj-v-berlinskom-stile-i-estetskij-fler/,"г Москва, пер Большой Трёхсвятительский, д 2/1 стр 8",55.7548238,37.6429536
+97,https://moskvichmag.ru/restorany-i-bary/bar-20-ponravitsya-lyudyam-za-40-kotorye-nostalgiruyut-po-nachalu-veka/,"г Москва, ул Бакунинская, д 72 стр 2",55.7777221,37.6915458
+98,https://moskvichmag.ru/restorany-i-bary/scro-pizza-poshla-v-narod-kachestvennaya-pitstsa-otvoevyvaet-pozitsii-u-shaurmy/,"г Москва, ул Новослободская, д 20",55.7823336,37.5986888
+99,https://moskvichmag.ru/restorany-i-bary/v-aurora-na-trehgorke-dobrotnaya-prostaya-eda-s-redkimi-dlya-moskvy-priyatnymi-syurprizami/,"г Москва, ул Рочдельская, д 15 стр 25",55.7552557,37.5615199
+100,https://moskvichmag.ru/restorany-i-bary/v-ryumochnoj-prolive-vsegda-novyj-god-olive-seld-pod-shuboj-i-buterbrody-so-shprotami/,"г Москва, б-р Никитский, д 12",55.7553212,37.6005218
+101,https://moskvichmag.ru/restorany-i-bary/v-fudmoll-sokolniki-stoit-zajti-v-pervuyu-ochered-radi-kornerov-s-tajskoj-i-indijskoj-edoj/,"г Москва, ул Русаковская, д 31",55.7885133,37.6786356
+102,https://moskvichmag.ru/restorany-i-bary/za-anglijskim-nazvaniem-late-checkout-bar-skryvaetsya-lyubopytnaya-versiya-russkoj-kuhni/,"г Москва, пер Спиридоньевский, д 9 стр 1",55.7624439,37.5941675
+103,https://moskvichmag.ru/restorany-i-bary/menyu-flagmanskih-mestnyh-na-rochdelskoj-krepko-sbito-iz-moskovskih-chempionov-prodazh/,"г Москва, ул Рочдельская, д 15 стр 35",55.7566265,37.5625501
+104,https://moskvichmag.ru/restorany-i-bary/plastikovyj-boks-luchshe-plyusy-i-minusy-dostavki-supov-iz-restoranov-rocky-2-i-regent/,"г Москва, ул Дмитровка Б., д 10 стр 4",55.7612538,37.6149716
+105,https://moskvichmag.ru/restorany-i-bary/ponchiki-s-chaem-v-brutalnom-minimalizme-mmoma-bread-to-chto-nuzhno-utomlennym-iskusstvom/,"г Москва, пер Ермолаевский, д 17 стр 1",55.7655872,37.5921431
+107,https://moskvichmag.ru/restorany-i-bary/sup-tlv-penitsillin-s-matsa-bolami-i-frikadelkami-iz-bara-david-lechit-provereno/,"г Москва, б-р Никитский, д 25",55.7569773,37.5981172
+108,https://moskvichmag.ru/restorany-i-bary/tazhiny-babaganush-i-humus-turetskaya-lira-arkadiya-novikova-posvyashhena-ne-muze-a-meze/,"г Москва, ул Новый Арбат, д 36",55.7537191,37.577079
+109,https://moskvichmag.ru/restorany-i-bary/claudia-na-leningradskom-prospekte-restorany-v-novyh-zhk-stali-ne-huzhe-staryh-v-tsentre/,"г Москва, пр-кт Ленинградский, д 37/5",55.793864,37.541001
+110,https://moskvichmag.ru/restorany-i-bary/cmorrebrody-i-dich-bistro-solna-v-otele-mys-prodolzhaet-skandinavskie-traditsii-na-chistyh/,"г Москва, пер Кривоколенный, д 10 стр 4",55.7611998,37.6358996
+111,https://moskvichmag.ru/restorany-i-bary/v-luwo-sup-iz-tomatov-i-granata-s-chereshnej-i-syrom-syuzma-prevrashhaet-letnij-den-v-prazdnik/,"г Москва, ул Большая Никитская, д 15",55.756731,37.6036109
+112,https://moskvichmag.ru/restorany-i-bary/v-manul-patriotichno-i-zadorogo-gotovyat-delikatesy-vostochnoj-sibiri-vrode-kedrovoj-kashi/,"г Москва, ул Охотный Ряд, д 2",55.7571308,37.6171584
+113,https://moskvichmag.ru/restorany-i-bary/v-rockets-soncept-store-bulochka-s-koritsej-spasaet-utro-na-suetlivom-tverskom-bulvare/,"г Москва, б-р Тверской, д 3",55.7583165,37.5980393
+114,https://moskvichmag.ru/restorany-i-bary/v-tuna-bar-na-novinskom-spasitelno-pahnet-morem/,"г Москва, б-р Новинский, д 7",55.7516947,37.5826847
+115,https://moskvichmag.ru/restorany-i-bary/v-wu-shu-fioletovye-dimsamy-i-vontony-s-anyutinymi-glazkami-vyzyvayut-ponyatnyj-azhiotazh/,"г Москва, пл Трубная, д 23 стр 2",55.7671275,37.6223433
+116,https://moskvichmag.ru/restorany-i-bary/v-bistro-47-yavno-est-trizhdy-v-den-intelligentnaya-publika-kotoraya-ne-gotovit-doma-nikogda/,"г Москва, б-р Яузский, д 14/8",55.7510021,37.6434485
+117,https://moskvichmag.ru/restorany-i-bary/v-restorane-abrau-dyurso-okroshka-s-rapanom-pasta-s-rapanom-i-dazhe-falafel-iz-rapana/,"г Москва, пер Усачёвский, д 26",55.7271354,37.5672254
+118,https://moskvichmag.ru/restorany-i-bary/leto-v-moskve-eto-holodnye-supy-s-ryboj-v-dr-zhivago-chto-mozhet-byt-bolee-russkoe/,"г Москва, ул Моховая, д 15 стр 1",55.7565818,37.6137064
+121,https://moskvichmag.ru/restorany-i-bary/ossu-na-sretenskom-bulvare-otkryta-dlya-lyubitelej-lapshi-i-begushhego-po-lezviyu/,"г Москва, б-р Сретенский, д 1 к 4",55.766997,37.632026
+122,https://moskvichmag.ru/restorany-i-bary/park-pretenduet-na-zvanie-prakticheski-zagorodnogo-restorana-i-idealen-dlya-banketa/,"г Москва, ул Мантулинская, д 5 стр 8",55.7560466,37.5537042
+123,https://moskvichmag.ru/restorany-i-bary/bar-vinfak-na-kitaj-gorode-pravilnyj-potrepannyj-dizajn-i-idealnaya-kuritsa-gril/,"г Москва, пер Большой Трёхсвятительский, д 2/1 стр 6",55.7549379,37.645502
+124,https://moskvichmag.ru/restorany-i-bary/v-qlo-na-tverskoj-kachestvennyj-comfort-food-i-nastroenie-kak-v-filmah-pro-nyu-jork-1950-h/,"г Москва, ул Тверская, д 27 стр 2",55.768684,37.5975945
+125,https://moskvichmag.ru/restorany-i-bary/v-so-far-kebab-zavorachivayut-kuritsu-govyadinu-i-falafel-v-indijskie-lepeshki-roti/,"г Москва, ул Мясницкая, д 13 стр 2",55.7622293,37.6338225
+126,https://moskvichmag.ru/restorany-i-bary/v-the-greeks-na-neglinnoj-berite-sup-avgolemono-dolmu-s-krabom-da-i-pozhaluj-vse-ostalnoe/,"г Москва, ул Неглинная, д 15",55.7630847,37.6197566
+127,https://moskvichmag.ru/restorany-i-bary/v-rajone-shabolovki-teper-mozhno-zavtrakat-pechenymi-yajtsami-po-meksikanski-v-gline/,"г Москва, ул Хавская, д 24",55.7137154,37.6128788
+128,https://moskvichmag.ru/restorany-i-bary/gepardy-na-potolke-i-oburzhuazivshayasya-mimoza-le-pigeon-na-tsvetnom-pochti-idealen/,"г Москва, б-р Цветной, д 2",55.7679448,37.6234744
+129,https://moskvichmag.ru/restorany-i-bary/esli-vam-nuzhno-spustit-vse-dengi-na-kurinye-lapki-i-morskie-delikatesy-b12-podhodit/,"г Москва, ул Большая Никитская, д 12",55.7564328,37.6064016
+130,https://moskvichmag.ru/restorany-i-bary/kogda-klassika-luchshe-horosha-li-sha-na-patriarshih/,"г Москва, пер Малый Палашёвский, д 2/8",55.764761,37.6016488
+131,https://moskvichmag.ru/restorany-i-bary/otlichitelnaya-osobennost-zanovo-otkryvshegosya-pasta-i-basta-starorezhimnyj-italyanskij-shik/,"г Москва, б-р Сретенский, д 4/1",55.7661102,37.6321969
+132,https://moskvichmag.ru/restorany-i-bary/tartaletki-i-denishi-iz-jules-zang-podhodyat-dlya-chaepitiya-hot-s-garri-potterom-hot-s-alisoj/,"г Москва, пер Наставнический, д 3",55.7519571,37.6639912
+133,https://moskvichmag.ru/restorany-i-bary/flaner-rasshiril-geografiyu-na-zimu-za-schet-marokko-i-balkan/,"г Москва, пер Кривоколенный, д 7",55.7622211,37.6358888
+134,https://moskvichmag.ru/restorany-i-bary/kook-na-petrovskom-bulvare-pelmeni-mandu-pirozhnoe-medved-i-dolgoe-ih-ozhidanie/,"г Москва, б-р Петровский, д 15 стр 1",55.7681977,37.6158936
+135,https://moskvichmag.ru/restorany-i-bary/v-trenta-pizza-na-sretenke-gotovyat-v-drovyanoj-pechi-klassiku-po-umerennym-tsenam/,"г Москва, ул Сретенка, д 24/2",55.7697797,37.632611
+136,https://moskvichmag.ru/restorany-i-bary/v-pastrami-bare-smoke-is-koptyat-vse-podryad-tseny-nizkie-portsii-bolshie-narodu-polno/,"г Москва, ул 3-я Ямского Поля, д 2 к 5",55.7833507,37.5819609
+137,https://moskvichmag.ru/restorany-i-bary/italyanskij-rocky-2-otlichaet-ot-pervogo-vmeshatelstvo-azii/,"г Москва, ул Дмитровка Б., д 10 стр 4",55.7612538,37.6149716
+140,https://moskvichmag.ru/restorany-i-bary/pity-kreplah-i-kosheri-bshushu-zhongliruet-ingredientami-izrailskoj-kuhni/,"г Москва, ул 3-я Ямского Поля, д 2 к 3",55.7817554,37.582052
+141,https://moskvichmag.ru/restorany-i-bary/plyusy-lilyhammer-na-lubyanke-shot-karlson-i-koktejl-kizil-minus-pelmeni-s-maralom/,"г Москва, ул Профсоюзная, д 16",55.68427,37.568938
+142,https://moskvichmag.ru/restorany-i-bary/spetsmenyu-v-champ-posvyashheno-blyudam-moskovskih-traktirov-stoletnej-davnosti-i-eto-nuzhno-sest/,"г Москва, ул Неглинная, д 14 стр 1а",55.7642245,37.6203674
+143,https://moskvichmag.ru/restorany-i-bary/tolko-tseny-mogut-pomeshat-obedat-v-t1-s-izrailskoj-kuhnej-kazhdyj-den/,"г Москва, ул Большая Никитская, д 24/1 стр 6",55.7571355,37.6021208
+144,https://moskvichmag.ru/restorany-i-bary/u-gyoza-bar-na-nikitskom-bulvare-est-vse-shansy-stat-kachestvennoj-setyu-pelmennyh/,"г Москва, б-р Никитский, д 12",55.7553212,37.6005218
+146,https://moskvichmag.ru/restorany-i-bary/v-podvale-na-b-nikitskoj-ester-tel-avivskie-retsepty-ekoatmosfera-i-idealnyj-sup-dlya-oseni/,"г Москва, ул Большая Никитская, д 22/2",55.7570144,37.6028697
+147,https://moskvichmag.ru/restorany-i-bary/v-restorane-sapiens-zhdut-tolko-predstavitelej-vysshej-stupeni-evolyutsii-cheloveka/,"г Москва, ул Льва Толстого, д 16",55.7337695,37.5881476
+148,https://moskvichmag.ru/restorany-i-bary/luchshe-gruzinskoj-kuhni-mozhet-byt-tolko-sezonnoe-menyu-v-gruzinskom-vinnom-megobari/,"г Москва, ул Маросейка, д 15",55.7579723,37.6367992
+149,https://moskvichmag.ru/restorany-i-bary/plyus-enzo-na-m-nikitskoj-v-menyu-vsya-italiya-minus-hronicheskij-perebor-s-solyu/,"г Москва, ул Малая Никитская, д 24 стр 1",55.7592814,37.5874297
+150,https://moskvichmag.ru/restorany-i-bary/plyus-happy-end-barkitchen-pravilnyj-benedikt-na-zavtrak-minus-rabotaet-ne-kazhdyj-den/,"г Москва, пер Спиридоньевский, д 9 стр 1",55.7624439,37.5941675
+151,https://moskvichmag.ru/restorany-i-bary/plyus-kofejni-22-cups-na-novinskom-salat-s-forelyu-minusy-pochti-vse-ostalnoe/,"г Москва, б-р Новинский, д 22",55.7566251,37.5848318
+152,https://moskvichmag.ru/restorany-i-bary/plyusy-chevapi-gril-chorba-za-180-rublej-pleskavitsa-za-380-i-vse-ostalnoe-minusov-nol/,"г Москва, ул Шаболовка, д 30/12",55.7193696,37.6082547
+153,https://moskvichmag.ru/restorany-i-bary/primorskoe-nastroenie-i-nevysokie-tseny-kaspijki-to-chto-nuzhno-moskve-imenno-sejchas/,"г Москва, ул Мясницкая, д 24/7 стр 2",55.763402,37.6359845
+155,https://moskvichmag.ru/restorany-i-bary/chow-chow-na-zabelina-obrechen-na-uspeh-blagodarya-udachnomu-raspolozheniyu-i-panaziatskim-hitam/,"г Москва, ул Забелина, д 1А",55.754654,37.637758
+156,https://moskvichmag.ru/restorany-i-bary/fish-kultura-pedaliruet-temu-dostupnyh-tsen-no-srednij-chek-vse-ravno-plyashet-ot-2500-r/,"г Москва, ул Покровка, д 21-23/25 стр 1",55.7596771,37.6471778
+157,https://moskvichmag.ru/restorany-i-bary/v-saviv-na-petrovke-harakternyj-gul-mesta-gde-lyudi-edyat-s-appetitom/,"г Москва, ул Петровка, д 30/7",55.7681462,37.6143906
+158,https://moskvichmag.ru/restorany-i-bary/v-kafe-lyalin-8-umeyut-pochti-nevozmozhnoe-gotovit-pravilnyj-desert-krem-katalana/,"г Москва, пер Лялин, д 8 стр 2",55.7600538,37.6512037
+160,https://moskvichmag.ru/restorany-i-bary/dazhe-stolovaya-kremlevskij-s-sovetskoj-kuhnej-sdaetsya-pod-naporom-frikadelek-kak-v-ikee/,"г Москва, ул 1-я Тверская-Ямская, д 3 стр 1",55.7707977,37.5943804
+161,https://moskvichmag.ru/restorany-i-bary/italyanskij-pravda-italia-na-lva-tolstogo-pravdivo-no-ne-bolee-togo/,"г Москва, ул Льва Толстого, д 16",55.7337695,37.5881476
+162,https://moskvichmag.ru/restorany-i-bary/kruassany-v-bulochnoj-sandra-bulok-mozhno-smelo-nazvat-idealnymi/,"г Москва, наб Садовническая, д 80",55.7373835,37.6400697
+163,https://moskvichmag.ru/restorany-i-bary/menyu-dlya-sobak-v-piri-piri-ne-huzhe-a-v-chem-to-dazhe-poleznee-obychnogo-dlya-lyudej/,"г Москва, ул Петровка, д 23/10 стр 5",55.7660601,37.6151212
+164,https://moskvichmag.ru/restorany-i-bary/na-pokrovke-teper-mozhno-provalitsya-v-polnyj-dekadans-s-pomoshhyu-kagora-na-topolinyh-pochkah/,"г Москва, ул Покровка, д 9 стр 1",55.7591258,37.6428607
+166,https://moskvichmag.ru/restorany-i-bary/humus-vprikusku-s-simitom-v-bare-krivokolennyj-povod-vspomnit-otpusk-v-stambule/,"г Москва, пер Кривоколенный, д 9 стр 3",55.7627733,37.6379324
+167,https://moskvichmag.ru/restorany-i-bary/tihij-i-igristyj-bar-v-podvorotne-s-aristokraticheskim-i-bogemnym-ogonkom-odnovremenno/,"г Москва, пер Большой Спасоглинищевский, д 9/1 стр 10",55.7550771,37.6373191
+168,https://moskvichmag.ru/restorany-i-bary/v-amy-idealnaya-eda-dlya-devushek-s-patrikov-tyanushhihsya-k-sovremennomu-iskusstvu/,"г Москва, пер Спиридоньевский, д 12/9",55.7628469,37.5961678
+169,https://moskvichmag.ru/restorany-i-bary/v-marmo-k-mramornoj-govyadine-otnosyatsya-tak-kak-ona-togo-zasluzhivaet/,"г Москва, пер Рыбников, д 1",55.7675743,37.6325821
+170,https://moskvichmag.ru/restorany-i-bary/v-underdog-zavtraki-bezbozhno-vrednye-vkusnye-i-pozdnie-do-chetyreh-dnya/,"г Москва, ул Маросейка, д 6/8 стр 1",55.7574733,37.6343415
+172,https://moskvichmag.ru/restorany-i-bary/v-bare-sangre-fresca-gotovit-meksikanets-a-nalivayut-pitertsy-itog-modnejshee-mesto-moskvy/,"г Москва, пер Ермолаевский, д 10/7",55.7637006,37.5906241
+173,https://moskvichmag.ru/restorany-i-bary/v-pervom-moskovskom-restorane-tashkentskoj-seti-shashleek-shashlyki-podayutsya-brutalno/,"г Москва, ул Новый Арбат, д 36 стр 3",55.7530998,37.5759108
+174,https://moskvichmag.ru/restorany-i-bary/glavnyj-attraktsion-meat-coin-myaso-v-pishhevom-zolote-no-prosto-salaty-i-kebaby-tozhe-horoshi/,"г Москва, пер 1-й Николощеповский",55.7485767,37.5813075
+175,https://moskvichmag.ru/restorany-i-bary/kazarechche-s-ragu-iz-yagnenka-v-ave-pasta-v-dome-kompozitorov-prosto-pesnya/,"г Москва, пер Брюсов, д 8/10 стр 2",55.7592993,37.6090643
+176,https://moskvichmag.ru/restorany-i-bary/lyubiteli-pitsts-i-bruskett-seti-mates-teper-mogut-sest-ih-i-v-hamovnikah/,"г Москва, ул Усачёва, д 11А",55.726937,37.5704365
+177,https://moskvichmag.ru/restorany-i-bary/pohozhij-odnovremenno-na-peshheru-i-kosmicheskuyu-stantsiyu-soma-delaet-upor-na-rybe-i-igristom/,"г Москва, б-р Петровский, д 14",55.7671553,37.6198761
+178,https://moskvichmag.ru/restorany-i-bary/jojo-bar-na-sretenke-ponravitsya-poklonnikam-komiksov-i-smelyh-rollov/,"г Москва, ул Сретенка, д 36",55.7714183,37.6330643
+179,https://moskvichmag.ru/restorany-i-bary/affogato-v-to-to-mozhet-pretendovat-na-zvanie-luchshego-deserta-moskovskogo-leta/,"г Москва, пер Столешников, д 7 стр 3",55.7636532,37.6138331
+180,https://moskvichmag.ru/restorany-i-bary/bar-dude-obyazyvayushhee-nazvanie-ne-opravdyvayushhij-ego-do-kontsa-interer-no-prilichnye-hot-dogi/,"г Москва, ул 4-я Тверская-Ямская, д 6/12",55.7724995,37.5975786
+181,https://moskvichmag.ru/restorany-i-bary/bar-hitachi-zanimaet-vsego-20-kv-m-no-eto-moskovskaya-rezidentsiya-sake/,"г Москва, ул Новый Арбат, д 5",55.7527045,37.5980457
+182,https://moskvichmag.ru/restorany-i-bary/v-champ-na-neglinnoj-stoit-idti-za-krem-bryule-iz-fua-gra-supom-garbyur-i-konechno-shampanskim/,"г Москва, ул Неглинная, д 14 стр 1а",55.7642245,37.6203674
+183,https://moskvichmag.ru/restorany-i-bary/v-loona-zakazyvajte-lazanyu-iz-pechi-tsyplenka-s-sousom-iz-gorgondzoly-potom-vse-ostalnoe/,"г Москва, б-р Тверской, д 24 стр 1",55.7623523,37.6039033
+184,https://moskvichmag.ru/restorany-i-bary/v-nome-na-b-dmitrovke-s-ego-kachchukko-i-spagetti-s-bottargoj-est-oshhushhenie-chto-vse-horosho/,"г Москва, ул Дмитровка Б., д 23 стр 1",55.7657343,37.6096096
+185,https://moskvichmag.ru/restorany-i-bary/v-soul-horosho-sidet-na-verande-rannim-utrom-s-portsiej-syrnikov-s-fistashkovoj-karamelyu/,"г Москва, пер Кривоколенный, д 10 стр 4",55.7611998,37.6358996
+186,https://moskvichmag.ru/restorany-i-bary/v-white-vo-dvorah-yauzskogo-bulvara-mnogo-solntsa-zdorovaya-eda-i-predskazuemo-vysokie-tseny/,"г Москва, пер Подколокольный, д 16 стр 3",55.7517888,37.6449495
+187,https://moskvichmag.ru/restorany-i-bary/v-moya-pyanaya-babushka-letit-v-singapur-potreblenie-shotov-i-dim-samov-pooshhryaetsya-materialno/,"г Москва, ул Большая Никитская, д 14",55.7566243,37.605913
+188,https://moskvichmag.ru/restorany-i-bary/v-bare-delo-ne-v-vine-na-marosejke-delo-v-midiyah-salate-s-utkoj-i-hot-doge-s-dzadziki/,"г Москва, ул Маросейка, д 13 стр 1",55.7582826,37.6366969
+189,https://moskvichmag.ru/restorany-i-bary/vkus-tsentra-potyanulsya-v-promzony-ogorod-otkrylsya-za-savelovskim-na-radost-mestnym/,"г Москва, ул Новодмитровская, д 2 к 5",55.8034226,37.5911639
+190,https://moskvichmag.ru/restorany-i-bary/dazhe-ne-dumajte-nazyvat-moskovskie-pyshki-ponchikami/,"г Москва, ул Новый Арбат, д 5",55.7527045,37.5980457
+191,https://moskvichmag.ru/restorany-i-bary/radio-na-supermetalle-nazyvaet-sebya-gastronomicheskoj-oranzhereej-mestami-ne-zrya/,"г Москва, ул 2-я Бауманская, д 9/23",55.763341,37.683554
+192,https://moskvichmag.ru/restorany-i-bary/yug-22-predlagaet-nalopatsya-delikatesov-v-maksimalno-ekzoticheskom-ispolnenii/,"г Москва, пер Никитский, д 22/2",55.7572113,37.6104449
+193,https://moskvichmag.ru/restorany-i-bary/v-cape-na-patriarshih-otlichnye-yakitori-losos-i-tako-s-paltusom-ot-zvezdnogo-shefa-iz-yuar/,"г Москва, пер Большой Палашёвский, д 2/12",55.7632117,37.5969874
+194,https://moskvichmag.ru/restorany-i-bary/v-la-virgen-tako-nachos-i-micheladam-mozhno-doveryat-ih-gotovit-shef-meksikanets/,"г Москва, проезд Лубянский, д 5 стр 1",55.7586973,37.6297269
+195,https://moskvichmag.ru/restorany-i-bary/v-oui-na-b-dmitrovke-komanda-kofeen-dablbi-skoree-udachno-osvoila-zhanr-bistro/,"г Москва, ул Дмитровка Б., д 7/5 стр 1",55.7605315,37.6144564
+196,https://moskvichmag.ru/restorany-i-bary/v-moskve-bum-na-hot-dogi-kakie-luchshe-v-est-1993-ili-v-hot-dog-bulldog/,"г Москва, пер Боярский, д 3/4 стр 1",55.7682006,37.6471696
+197,https://moskvichmag.ru/restorany-i-bary/v-menyu-panaziatskogo-bingsu-probralis-puhlye-rolly-dlya-nashego-cheloveka-vyrosshego-na-olive/,"г Москва, пер Банковский, д 2/5",55.7622031,37.6350565
+198,https://moskvichmag.ru/restorany-i-bary/v-modnyj-i-dorogoj-345-na-b-nikitskoj-stoit-idti-za-okeanicheskoj-ryboj/,"г Москва, ул Большая Никитская, д 22/2",55.7570144,37.6028697
+199,https://moskvichmag.ru/restorany-i-bary/v-oboih-mates-posle-obnovleniya-menyu-stoit-brat-syrniki-so-sgushhenkoj-i-oladi-s-povidlom/,"г Москва, ул Бронная М., д 16",55.7617064,37.5964888
+200,https://moskvichmag.ru/restorany-i-bary/voskreshenie-bijou-bar-na-2-j-brestskoj-raduet-no-utinuyu-nozhku-konfi-luchshe-ne-zakazyvat/,"г Москва, ул 2-я Брестская, д 39 стр 3",55.773957,37.5845179
+201,https://moskvichmag.ru/restorany-i-bary/golubtsy-s-langustinami-i-doshik-po-burzhujski-zojka-na-patriarshih-poluchilas-huliganskoj/,"г Москва, пер Большой Патриарший, д 8 стр 1",55.7629347,37.5927075
+202,https://moskvichmag.ru/restorany-i-bary/na-verande-lila-italy-smelo-berite-pastu-bukatini-s-krabom-i-tomatom-ne-oshibetes/,"г Москва, ул Сретенка, д 22/1 стр 1",55.7694292,37.6326177
+203,https://moskvichmag.ru/restorany-i-bary/u-arendy-genialnyj-hod-v-odnom-zdanii-chetyre-zavedeniya-gde-mozhno-poest-po-raznomu/,"г Москва, пер Большой Трёхсвятительский, д 2/1 стр 5",55.755063,37.644664
+204,https://moskvichmag.ru/restorany-i-bary/battuta-dostupnoe-bistro-s-uporom-na-myaso-no-mozhno-prismotretsya-i-k-ovoshhnym-predlozheniyam/,"г Москва, ул Новокузнецкая, д 39",55.732408,37.6354816
+205,https://moskvichmag.ru/restorany-i-bary/san-tot-samyj-rovnyj-spokojnyj-restoran-na-myasnitskoj-kuda-umestno-privesti-roditelej/,"г Москва, ул Мясницкая, д 23",55.765084,37.636056
+206,https://moskvichmag.ru/restorany-i-bary/doktorskaya-kolbasa-fermera-klimova-ne-vyzyvaet-voprosa-iz-chego-ona-sdelana/,"г Москва, Марушкинское п, д Крёкшино, ул Фермерская",55.5911553,37.1396057
+207,https://moskvichmag.ru/restorany-i-bary/tsvety-soli-iz-salon-de-the-de-paris-nuzhny-chtoby-sdelat-zhizn-slashhe/,"г Москва, ул Охотный Ряд, д 2",55.7571308,37.6171584
+208,https://moskvichmag.ru/restorany-i-bary/v-folk-mozhno-otkryt-dlya-sebya-privychnuyu-kuhnyu-kavkaza-blizhnego-vostoka-i-srednej-azii-zanovo/,"г Москва, б-р Цветной, д 2",55.7679448,37.6234744
+209,https://moskvichmag.ru/restorany-i-bary/v-jpan-do-kontsa-aprelya-eda-stala-rozovoj-v-chest-tsveteniya-sakury/,"г Москва, ул Трубная, д 21",55.7705205,37.6249784
+210,https://moskvichmag.ru/restorany-i-bary/v-lou-lou-na-m-bronnoj-dobrotnaya-klassicheskaya-eda-frantsuzskogo-bistro-chto-ne-tyanet-na-sobytie/,"г Москва, ул Бронная М., д 10 стр 1",55.7607268,37.5967828
+211,https://moskvichmag.ru/restorany-i-bary/v-bistro-patriki-ponyatnaya-i-tipichnaya-eda-dlya-publiki-s-maloj-bronnoj/,"г Москва, ул Бронная М., д 21/13 стр 2",55.7627515,37.5945116
+212,https://moskvichmag.ru/restorany-i-bary/v-bistro-rudi-na-novoslobodskoj-rodinu-rudolfa-valentino-napominaet-menyu-no-ne-vid-iz-okna/,"г Москва, ул Новослободская, д 24А стр 2",55.7832437,37.5993769
+213,https://moskvichmag.ru/restorany-i-bary/v-tsentre-tak-ne-umeyut-luchshij-falafel-v-moskve-gotovyat-v-kremle-v-izmajlovo/,"г Москва, ш Измайловское, д 73Ж стр 8",55.7943,37.753425
+214,https://moskvichmag.ru/restorany-i-bary/doloj-biznes-lanchi-dom-kultur-predlagaet-vspomnit-staryj-dobryj-obed/,"г Москва, ул Сретенка, д 25",55.7696336,37.6322195
+216,https://moskvichmag.ru/restorany-i-bary/novyj-bambini-idealen-dlya-koktejlya-pered-uzhinom/,"г Москва, пер Кривоколенный, д 9 стр 1",55.7627684,37.6371885
+218,https://moskvichmag.ru/restorany-i-bary/bagebi-umestno-eksperimentiruet-s-gruzinskoj-edoj-chto-ponyatno-sovladelets-vasilij-tsereteli/,"г Москва, ул Пречистенка, д 19/11 стр 2",55.7409685,37.5935422
+220,https://moskvichmag.ru/restorany-i-bary/lumicino-derzhitsya-na-italyanskih-retseptah-uilliama-lamberti-chuvstve-yumora-i-vysokih-tsenah/,"г Москва, ул Большая Никитская, д 58",55.7586813,37.5865894
+221,https://moskvichmag.ru/restorany-i-bary/rake-redkoe-yavlenie-v-moskve-dorogoj-restoran-sovremennoj-amerikanskoj-kuhni/,"г Москва, ул Валовая, д 26",55.7306303,37.6281973
+222,https://moskvichmag.ru/restorany-i-bary/alenka-na-pushkinskoj-priplyusovalas-k-tovarishhestvu-i-nachala-novuyu-zhizn/,"г Москва, б-р Страстной, д 2",55.765031,37.6070651
+223,https://moskvichmag.ru/restorany-i-bary/uzory-predlagayut-est-tom-yam-i-ugrya-v-masterskoj-uspeshnogo-hudozhnika/,"г Москва, наб Краснопресненская, д 2/1",55.7546024,37.5690016
+224,https://moskvichmag.ru/restorany-i-bary/v-alpaca-zapivaem-golubye-midii-s-ikroj-letuchih-ryb-napitkom-iz-zeren-fioletovoj-kukuruzy/,"г Москва, пер Потаповский, д 14",55.7595446,37.6413592
+225,https://moskvichmag.ru/restorany-i-bary/v-maya-na-b-nikitskoj-prigotovlennye-na-uglyah-blyuda-pahnut-kostrom-i-vyzyvayut-uvazhenie/,"г Москва, ул Большая Никитская, д 24/1 стр 6",55.7571355,37.6021208
+226,https://moskvichmag.ru/restorany-i-bary/v-piri-piri-na-petrovke-vintazhno-bogemno-pyano-i-sytno-spasibo-velosipednoj-kuritse/,"г Москва, ул Петровка, д 23/10 стр 5",55.7660601,37.6151212
+227,https://moskvichmag.ru/restorany-i-bary/v-verd-na-maloj-pirogovskoj-horosho-pozdno-zavtrakat-ovoshhnym-ragu-pisto-s-yajtsom/,"г Москва, ул Малая Пироговская, д 8",55.729669,37.570486
+228,https://moskvichmag.ru/restorany-i-bary/v-bare-marie-laveau-na-petrovke-kreolskaya-dzhambalajya-i-smes-romov-vas-okolduyut/,"г Москва, ул Петровка, д 30/7",55.7681462,37.6143906
+229,https://moskvichmag.ru/restorany-i-bary/lyulya-meze-humusy-tabule-v-maroon-arkadij-novikov-zovet-na-blizhnij-vostok/,"г Москва, пр-кт Кутузовский, д 2/1 стр 6",55.7523218,37.5667429
+230,https://moskvichmag.ru/restorany-i-bary/udalos-li-klinskomu-myasokombinatu-sdelat-iz-chernogo-kabana-nastoyashhij-hamon-iberiko/,"г Москва, проезд Клинский",55.8690965,37.50141
+231,https://moskvichmag.ru/restorany-i-bary/yaponskij-kichi-na-sretenke-ponravitsya-tem-kto-tsenit-horosho-prigotovlennuyu-rybu/,"г Москва, ул Сретенка, д 7",55.7673534,37.6312626
+232,https://moskvichmag.ru/restorany-i-bary/shenli-na-gruzinskom-valu-vecherom-dimsamy-i-kurinye-lapki-nochyu-tantsy-dlya-svoih/,"г Москва, ул Грузинский Вал, д 11 стр 3",55.7743318,37.5789959
+233,https://moskvichmag.ru/restorany-i-bary/v-choux-na-chistyh-prudah-gotovyat-chudo-kak-iz-garri-pottera-matcha-s-bryusselskoj-kapustoj/,"г Москва, б-р Чистопрудный, д 21",55.7605636,37.6462897
+234,https://moskvichmag.ru/restorany-i-bary/v-novoj-mates-pizza-na-leningradke-mozhno-poprobovat-pitstsu-s-ugrem-i-strachatelloj/,"г Москва, ул Бронная М., д 16",55.7617064,37.5964888
+235,https://moskvichmag.ru/restorany-i-bary/v-panaziatskom-redbox-sladkij-medved-s-klubnikoj-ne-daet-sovsem-zaskuchat-ot-sushi-rollov/,"г Москва, пер Камергерский, д 3А стр 2",55.760398,37.613494
+236,https://moskvichmag.ru/restorany-i-bary/v-fevrale-hochetsya-zabyt-o-zozh-i-dozhdatsya-vesny-s-dzhemom-iz-bekona/,"г Москва, ул Маросейка, д 6/8 стр 1",55.7574733,37.6343415
+237,https://moskvichmag.ru/restorany-i-bary/vo-vtorom-jpan-na-zabelina-stoit-brat-kushiyaki-iz-makreli-i-takoyaki-c-grebeshkom/,"г Москва, ул Забелина, д 9",55.7547979,37.6386559
+238,https://moskvichmag.ru/restorany-i-bary/perelman-blinov-sage-moskva-eshhe-takogo-ne-videla/,"г Москва, ул 1-я Тверская-Ямская, д 21",55.7744977,37.5871979
+239,https://moskvichmag.ru/restorany-i-bary/peruanskij-olluco-vyvodit-moskvu-na-novyj-uroven-vysokoj-gastronomii/,"г Москва, пер Даев, д 19",55.7703017,37.6379635
+240,https://moskvichmag.ru/restorany-i-bary/pochemu-nashej-karamelnoj-pomadke-s-morskoj-solyu-ne-pomogaet-staryj-nadezhnyj-gost/,"г Москва, ул Балтийская",55.8090397,37.5139516
+241,https://moskvichmag.ru/restorany-i-bary/smelyj-l-e-s-na-tverskom-predlagaet-zavtrakat-spirulinoj-latte-i-proroshhennoj-grechkoj/,"г Москва, б-р Тверской, д 9",55.7593619,37.5989504
+242,https://moskvichmag.ru/restorany-i-bary/lui-na-bersenevskoj-podhodit-dlya-chinnyh-uzhinov-s-finalnym-shokom-ot-scheta/,"г Москва, наб Берсеневская, д 16 стр 9",55.7431432,37.6103762
+243,https://moskvichmag.ru/restorany-i-bary/thali-i-karri-nameren-snyat-proklyatie-s-tverskoj-gde-horoshie-restorany-ne-prizhivayutsya/,"г Москва, ул Тверская, д 17",55.763379,37.6066517
+244,https://moskvichmag.ru/restorany-i-bary/baklazhannuyu-parmidzhanu-iz-osteria-by-mandys-mozhno-est-hot-kazhdyj-den/,"г Москва, б-р Чистопрудный, д 12 стр 6",55.7616178,37.6420767
+245,https://moskvichmag.ru/restorany-i-bary/v-anchovys-club-s-ego-kantabrijskimi-anchousami-kak-budto-otpravlyaeshsya-v-dorogoj-morskoj-kruiz/,"г Москва, пер Колокольников, д 3 стр 2",55.7681541,37.6248867
+246,https://moskvichmag.ru/restorany-i-bary/v-brera-na-b-nikitskoj-legko-chuvstvovat-sebya-geroem-starogo-krasivogo-italyanskogo-filma/,"г Москва, ул Большая Никитская, д 24/1 стр 1",55.7572898,37.601476
+247,https://moskvichmag.ru/restorany-i-bary/v-buryatskoj-orde-na-myasnitskoj-berite-sup-iz-baraniny-buuzy-s-rublenoj-govyadinoj-i-salamat/,"г Москва, ул Мясницкая, д 43 стр 2",55.7684161,37.642954
+248,https://moskvichmag.ru/restorany-i-bary/izakaya-oshi-vidit-svoj-uspeh-v-adaptatsii-yaponskoj-kuhni-k-vkusam-publiki-s-patrikov/,"г Москва, ул Бронная М., д 22 стр 2",55.7629988,37.5950311
+249,https://moskvichmag.ru/restorany-i-bary/pekarnya-kofejnya-litsej-napominaet-srazu-apteku-parfyumernyj-butik-i-piterskuyu-bulochnuyu/,"г Москва, пер Лялин, д 8 стр 2",55.7600538,37.6512037
+250,https://moskvichmag.ru/restorany-i-bary/pridumannyj-v-nagoya-nesladkij-kronigiri-gibrid-kruassana-s-yaponskim-onigiri-zhutkij-proval/,"г Москва, ул Большая Серпуховская, д 8/7 стр 2",55.7286985,37.6239294
+251,https://moskvichmag.ru/restorany-i-bary/adam-trendy-levantine-kak-budto-vklyuchil-solntse-zimoj-na-bolshoj-gruzinskoj/,"г Москва, ул Большая Грузинская, д 76",55.77356,37.586904
+252,https://moskvichmag.ru/restorany-i-bary/balance-by-gudkate-vse-to-zhe-samoe-chto-i-vezde-tolko-dorozhe/,"г Москва, ул Льва Толстого, д 20",55.7353853,37.5849773
+253,https://moskvichmag.ru/restorany-i-bary/layerz-bakery-teper-kormit-zavtrakami-schastlivyh-zhitelej-novoslobodskoj/,"г Москва, ул Новослободская, д 73 стр 1",55.7904432,37.5897086
+254,https://moskvichmag.ru/restorany-i-bary/tomorrow-na-smolenskoj-dokazyvaet-chto-vegetarianstvo-sovsem-ne-skuchnoe-no-dorogoe/,"г Москва, пер 2-й Смоленский, д 1/4",55.7469729,37.5814247
+255,https://moskvichmag.ru/restorany-i-bary/budete-v-bare-szputnyik-v-stoleshnikovom-berite-pleskavitsu-a-ne-vetnamskij-sendvich/,"г Москва, пер Столешников, д 6 стр 3",55.7615059,37.6122209
+256,https://moskvichmag.ru/restorany-i-bary/v-la-mortazza-kannoli-nachinyayut-pryamo-pered-vami-sledovatelno-oni-nastoyashhie/,"г Москва, ул Сущёвская, д 9",55.7804733,37.6016902
+257,https://moskvichmag.ru/restorany-i-bary/v-vysote-5642-s-kabardinskoj-kuhnej-hychiny-i-kasha-zhamuko-na-vysote/,"г Москва, ул Большая Якиманка, д 26",55.736194,37.6125834
+258,https://moskvichmag.ru/restorany-i-bary/v-novom-bare-vinaga-stojkoe-oshhushhenie-chto-prishel-v-priyatnye-gosti/,"г Москва, ул Большая Грузинская, д 76",55.77356,37.586904
+259,https://moskvichmag.ru/restorany-i-bary/v-restorane-ges-2-prostranstvo-glavnee-edy/,"г Москва, наб Болотная, влд 15",55.7426245,37.6118556
+260,https://moskvichmag.ru/restorany-i-bary/novyj-agnets-na-bolshoj-gruzinskoj-iz-priyatnoj-porody-restoranov-s-mono-harakterom/,"г Москва, ул Большая Грузинская, д 76",55.77356,37.586904
+261,https://moskvichmag.ru/restorany-i-bary/novyj-takahuli-v-nachale-lesnoj-izdevatelstvo-nad-gruzinskoj-kuhnej-i-horoshim-vkusom/,"г Москва, ул Лесная, д 3",55.7772369,37.5859731
+262,https://moskvichmag.ru/restorany-i-bary/teper-iz-vinnogo-bara-13-mozhno-perejti-v-pivno-koktejlnyj-by-the-way-naprotiv/,"г Москва, ул 4-я Тверская-Ямская, д 6/12",55.7724995,37.5975786
+263,https://moskvichmag.ru/restorany-i-bary/tilda-poshla-v-narod-naskolko-horosha-kyufta-v-mini-turkish-spot-prakticheski-na-tverskoj/,"г Москва, ул Тверская, д 19 стр 2",55.7655202,37.6031966
+264,https://moskvichmag.ru/restorany-i-bary/v-lila-restaurant-ot-zayavlennoj-vysokoj-kuhni-zolotye-steny-dorogaya-posuda-i-tseny/,"г Москва, ул Сретенка, д 22/1 стр 1",55.7694292,37.6326177
+265,https://moskvichmag.ru/restorany-i-bary/v-nord-22-na-m-bronnoj-severnaya-kuhnya-interpretiruetsya-maksimalno-shiroko-i-eto-horosho/,"г Москва, ул Бронная М., д 22",55.7629988,37.5950311
+267,https://moskvichmag.ru/restorany-i-bary/v-obnovivshemsya-rombuse-na-b-ordynke-gotovyat-bez-preuvelicheniya-kak-v-lombardii/,"г Москва, ул Большая Ордынка, д 13/9 стр 1",55.7435081,37.6252563
+268,https://moskvichmag.ru/restorany-i-bary/v-syrnoj-lavke-affinazh-idealnyj-novogodnij-gastronomicheskij-nabor-sobiraetsya-za-minutu/,"г Москва, ул Садовая-Самотёчная, д 11",55.7738568,37.617063
+269,https://moskvichmag.ru/restorany-i-bary/gruppirovka-deep-fried-friends-otkryla-svoj-pervyj-restoran-na-yauzskoj-i-on-horosh/,"г Москва, ул Яузская, д 10/2 стр 4",55.7463061,37.6468923
+270,https://moskvichmag.ru/restorany-i-bary/dizajn-i-atmosfera-novogo-muse-na-bolshoj-nikitskoj-interesnee-edy/,"г Москва, ул Большая Никитская, д 14/2 стр 7",55.7568563,37.605342
+272,https://moskvichmag.ru/restorany-i-bary/na-1-m-etazhe-doma-kultur-snova-peremeny-na-etot-raz-fleksitarianstvo-ot-touch-of-matcha/,"г Москва, ул Сретенка, д 23/25 стр 1",55.7696336,37.6322195
+273,https://moskvichmag.ru/restorany-i-bary/novyj-londri-vyglyadit-tak-prochno-i-osnovatelno-budto-emu-let-sto-ne-menshe/,"г Москва, пер Дмитровский, д 11",55.7626434,37.6172241
+274,https://moskvichmag.ru/restorany-i-bary/svetlo-ryzhee-maslo-ot-dzhersejskih-korov-iz-organic-club-pahnet-letom/,"г Москва, ул Спиридоновка, д 34 стр 1",55.7625352,37.5899554
+275,https://moskvichmag.ru/restorany-i-bary/giulietta-please-stop-crying-nastoyashhaya-chiketeriya-s-luchshej-pastoj-s-govyadinoj-v-moskve/,"г Москва, б-р Никитский, д 12",55.7553212,37.6005218
+277,https://moskvichmag.ru/restorany-i-bary/parnik-otlichaetsya-ot-drugih-fudkortov-mini-fermoj-i-vegetarianskoj-napravlennostyu/,"г Москва, ул Кузнецкий Мост, д 20/6/9 стр 1",55.7618871,37.6242338
+278,https://moskvichmag.ru/restorany-i-bary/v-onest-italyanskaya-kuhnya-dlya-teh-kto-gotov-zaplatit-12-tysyach-za-degustatsionnyj-set/,"г Москва, ул Бронная М., д 8 стр 1",55.7603569,37.5969803
+279,https://moskvichmag.ru/restorany-i-bary/v-podvale-brodyachej-sobaki-horoshaya-publika-koktejli-i-dzhaz-t-e-pochti-vse-horosho/,"г Москва, ул 2-я Тверская-Ямская, д 20-22",55.7719631,37.594219
+280,https://moskvichmag.ru/restorany-i-bary/dostavka-toto-zabotitsya-o-kapriznom-zakazchike-zavtraka-protsentov-na-10-iz-obeshhannogo/,"г Москва, пер Столешников, д 7 стр 3",55.7636532,37.6138331
+281,https://moskvichmag.ru/restorany-i-bary/dostavka-iz-jpan-idealna-esli-vy-lyubite-yaponskuyu-kuhnyu-ne-za-sushi/,"г Москва, ул Трубная, д 21",55.7705205,37.6249784
+282,https://moskvichmag.ru/restorany-i-bary/dostavka-prevrashhaet-tomlennuyu-v-pechi-uhvat-gurevskuyu-kashu-iz-lakomstva-v-koshmar/,"г Москва, ул Рочдельская, д 15 стр 41",55.7561222,37.5620888
+283,https://moskvichmag.ru/restorany-i-bary/ot-keto-syrnikov-iz-goroda-sada-konechno-ne-tolsteesh-no-poka-ih-vezut-umresh-ot-goloda/,"г Москва, тер. СНТ Тринити-Сад",55.7540584,37.62049
+284,https://moskvichmag.ru/restorany-i-bary/posle-kaif-burger-morgenshterna-legko-stat-vegetariantsem/,"г Москва, ул Никольская, д 10/2 стр 2б",55.7584417,37.6250187
+286,https://moskvichmag.ru/restorany-i-bary/skrembly-i-benedikty-v-grace-bistro-dostatochno-horoshi-chtoby-vstat-poranshe/,"г Москва, ул Спиридоновка, д 25/20 стр 1",55.7626611,37.5891752
+288,https://moskvichmag.ru/restorany-i-bary/gvidon-mezhdu-tsirkovym-predstavleniem-i-barskimi-zabavami-s-dobrotnoj-morskoj-kuhnej/,"г Москва, ул Большая Никитская, д 5",55.7553388,37.6090657
+289,https://moskvichmag.ru/restorany-i-bary/v-eiwa-na-hodynskom-bulvare-ochen-udachnye-ramen-s-govyadinoj-i-sushirrito-s-krevetkoj/,"г Москва, проезд 2-й Ходынский",55.7835573,37.5300513
+290,https://moskvichmag.ru/restorany-i-bary/v-mo-bobatea-smartfood-v-tsvetnom-kormyat-zdorovoj-edoj-i-poyat-penistymi-chajnymi-koktejlyami/,"г Москва, б-р Цветной",55.7705006,37.6222815
+291,https://moskvichmag.ru/restorany-i-bary/v-mina-hochetsya-idti-ochen-golodnoj-chtoby-sest-pobolshe-v-yarkom-plate-i-slushaya-dalidu/,"г Москва, ул Малая Никитская, д 16/5",55.7586962,37.5914252
+292,https://moskvichmag.ru/restorany-i-bary/v-listening-bare-fonoteca-zabyvayutsya-podrobnosti-realnoj-zhizni/,"г Москва, пер Кривоколенный, д 7",55.7622211,37.6358888
+293,https://moskvichmag.ru/restorany-i-bary/v-more-na-patrikah-lovitsya-rybka-i-bolshaya-i-malaya/,"г Москва, пер Козихинский М., д 10 стр 1",55.7643132,37.5964871
+294,https://moskvichmag.ru/restorany-i-bary/v-menyu-osteria-di-mare-est-file-imperatora-s-kenijskoj-fasolyu-kakogo-imenno-ne-utochnyayut/,"г Москва, наб Шелепихинская, д 34 к 1",55.761282,37.513422
+295,https://moskvichmag.ru/restorany-i-bary/v-otlichie-ot-mnogih-sosedej-from-berlin-na-patriarshih-uspeshno-imitiruet-evropejskuyu-atmosferu/,"г Москва, пер Малый Патриарший, д 5 стр 1",55.7633491,37.5912377
+296,https://moskvichmag.ru/restorany-i-bary/velikij-shelkovyj-put-tak-dolog-chto-posvyashhennaya-emu-kuhnya-farang-poteryalas-na-poldorogi/,"г Москва, ул Малая Никитская, д 24 стр 1",55.7592814,37.5874297
+297,https://moskvichmag.ru/restorany-i-bary/vtoraya-konditerskaya-niqa-eshhe-odno-mesto-s-neplohimi-zavtrakami-na-tverskom/,"г Москва, б-р Тверской, д 14 стр 5",55.759925,37.6016742
+298,https://moskvichmag.ru/restorany-i-bary/kafe-2046-za-kofe-i-dizajn-tverdaya-pyaterka-za-edu-tri-s-minusom/,"г Москва, пер 1-й Неопалимовский, д 7/9",55.7405742,37.5826593
+299,https://moskvichmag.ru/restorany-i-bary/morozhenoe-iz-morskih-ezhej-i-desert-s-ukropom-v-artest-takim-dolzhen-byt-vkus-rannej-oseni/,"г Москва, пер Трубниковский, д 15 стр 2",55.7543918,37.5864937
+301,https://moskvichmag.ru/restorany-i-bary/posle-restoranov-v-tsentre-publika-kazhetsya-idealnym-mestom-dlya-otdyha-ot-moskvy/,"г Москва, ул Старая Басманная, д 18 стр 4",55.7664361,37.6634921
+302,https://moskvichmag.ru/restorany-i-bary/sentyabr-a-znachit-vremya-dlya-sezonnyh-lesnyh-gribov-v-natura/,"г Москва, ул Забелина, д 1",55.7544762,37.6374428
+303,https://moskvichmag.ru/restorany-i-bary/found-record-store-pizzeria-samaya-udachnaya-reinkarnatsiya-pyatogo-etazha-tsvetnogo-iz-vseh/,"г Москва, б-р Цветной, д 15 стр 1",55.7711641,37.6202241
+304,https://moskvichmag.ru/restorany-i-bary/mo-friends-bar-dining-poraduet-vseh-kto-skuchaet-po-hitam-simachevskoj-kuhni/,"г Москва, ул Петровка, д 20/1",55.7641852,37.6174386
+305,https://moskvichmag.ru/restorany-i-bary/soyuz-na-marosejke-bar-dlya-detej-s-tsenami-dlya-vzroslyh/,"г Москва, ул Маросейка, д 15",55.7579723,37.6367992
+306,https://moskvichmag.ru/restorany-i-bary/v-grace-bistro-na-spiridonovke-chuvstvuesh-sebya-kak-v-seriale-o-bogatyh-italyantsah/,"г Москва, ул Спиридоновка, д 25/20 стр 1",55.7626611,37.5891752
+307,https://moskvichmag.ru/restorany-i-bary/v-bistro-mentalitet-stoit-idti-radi-kejla-s-shiitake-i-eklerov-s-krabom/,"г Москва, пл Большая Сухаревская, д 14/7",55.7718556,37.6365512
+309,https://moskvichmag.ru/restorany-i-bary/kafe-okean-podojdet-lyubitelyam-ryby-i-sovetskogo-retro/,"г Москва, ул Дмитровка Б., д 5/6 стр 5",55.7599775,37.6154785
+310,https://moskvichmag.ru/restorany-i-bary/letnee-menyu-v-to-to-tolko-obnazhaet-nashu-problemu-s-raznoobraziem-sezonnyh-produktov/,"г Москва, пер Столешников, д 7 стр 3",55.7636532,37.6138331
+311,https://moskvichmag.ru/restorany-i-bary/novoe-pokolenie-pohozhe-na-tort-napoleon-korzhi-mazhory-krem-intelligentsiya/,"г Москва, б-р Рождественский, д 10/7 стр 2",55.7658081,37.6258417
+312,https://moskvichmag.ru/restorany-i-bary/sredi-mha-i-bylinok-chuvstvuesh-sebya-v-l-e-s-e-kak-posredi-futuristicheskogo-bolota/,"г Москва, б-р Тверской, д 9",55.7593619,37.5989504
+313,https://moskvichmag.ru/restorany-i-bary/shakshuka-i-hala-s-baklazhannym-kremom-na-zavtrak-vo-flaner-stoyat-togo-chtoby-vstat-poranshe/,"г Москва, пер Кривоколенный, д 7",55.7622211,37.6358888
+314,https://moskvichmag.ru/restorany-i-bary/yarkaya-humusnaya-abu-gosh-otkryla-vtoroe-pomeshhenie-k-radosti-zhitelej-trubnoj/,"г Москва, ул Трубная, д 27 стр 2",55.7720391,37.6248361
+315,https://moskvichmag.ru/restorany-i-bary/merlion-na-bolshoj-nikitskoj-vverhu-dimsamy-vnizu-hajboly/,"г Москва, ул Большая Никитская, д 14",55.7566243,37.605913
+316,https://moskvichmag.ru/gorod/touch-s-ego-sorbetom-s-pchelami-i-kartofelem-s-plesenyu-yavno-restoran-ne-na-kazhdyj-den/,"г Москва, наб Садовническая, д 7",55.746547,37.628038
+317,https://moskvichmag.ru/restorany-i-bary/bodraya-intelligentsiya-neprivychno-dlya-moskvy-napominaet-lissabonskij-art-skvot/,"г Москва, ул Александра Солженицына, д 17 стр 1",55.7438997,37.6615366
+318,https://moskvichmag.ru/restorany-i-bary/v-tselom-eda-ne-sootvetstvuet-razmahu-caspian-na-arbate/,"г Москва, ул Арбат, д 42 стр 1",55.7482975,37.5869457
+319,https://moskvichmag.ru/restorany-i-bary/radi-nalima-s-mussom-iz-kabachka-v-kano-stoit-razok-sezdit-na-molodezhnuyu/,"г Москва, ул Ярцевская, д 31",55.7436888,37.4185045
+320,https://moskvichmag.ru/restorany-i-bary/s-gaspacho-iz-klubniki-i-persikovoj-hryushej-ne-zhalko-nagulyat-zhirok-na-usachevskom/,"г Москва, ул Усачёва, д 26",55.727506,37.567707
+321,https://moskvichmag.ru/restorany-i-bary/coperto-na-pokrovskom-bulvare-predlagaet-smotret-kino-s-italyanskoj-kuhnej-vmesto-popkorna/,"г Москва, б-р Покровский, д 5",55.756006,37.649049
+323,https://moskvichmag.ru/restorany-i-bary/niki-v-hudozhestvennom-pytaetsya-ekspluatirovat-nashi-detskie-travmy-vrode-salata-mimoza/,"г Москва, пл Арбатская, д 14",55.7524468,37.6021434
+324,https://moskvichmag.ru/restorany-i-bary/bar-restoran-s-galereej-wip-na-yauzskom-bulvare-horosh-dlya-tantsev-ne-goditsya-dlya-uzhina/,"г Москва, б-р Яузский, д 11",55.7509416,37.6459538
+325,https://moskvichmag.ru/restorany-i-bary/v-le-carre-luchshaya-v-moskve-vyrashhennaya-frantsuzom-v-podmoskove-sparzha/,"г Москва, наб Садовническая, д 69",55.7384102,37.6397517
+326,https://moskvichmag.ru/restorany-i-bary/v-world-chess-club-na-kudrinskoj-zaveli-koktejli-s-viski-to-chto-nuzhno-lyubitelyam-shahmat/,"г Москва, пл Кудринская, д 1",55.7591704,37.5808741
+327,https://moskvichmag.ru/restorany-i-bary/v-vadvare-dorogo-zato-chuvstvuesh-sebya-tam-kak-na-florentijskoj-vystavke-pitti-taste/,"г Москва, ул Ефремова, д 10 к 4 стр 1",55.725118,37.572836
+328,https://moskvichmag.ru/restorany-i-bary/v-klube-klub-nado-brat-utopentsa-za-100-rublej-i-zapivat-ego-ananasovym-kvasom/,"г Москва, б-р Покровский, д 6/20 стр 1",55.757612,37.646291
+329,https://moskvichmag.ru/restorany-i-bary/v-tramplin-na-vorobevyh-stoit-idti-iz-za-vida-i-legendarnogo-salata-semiramis/,"г Москва, ул Косыгина, д 28",55.7084191,37.5448893
+330,https://moskvichmag.ru/restorany-i-bary/v-hamovnikah-shef-iz-yuzhnoj-korei-gotovit-v-hibiki-interesnuyu-yaponsko-evropejskuyu-edu/,"г Москва, ул Трубецкая, д 10",55.7271299,37.576097
+331,https://moskvichmag.ru/restorany-i-bary/v-andergraund-restorane-galki-poyavilis-oladi-s-guakamole-i-krem-chiz-s-mango-znachit-leto/,"г Москва, б-р Страстной, д 4 стр 3",55.7649325,37.608344
+333,https://moskvichmag.ru/restorany-i-bary/la-poste-dostavlyaet-kulichi-i-bagety-hot-k-rannemu-zavtraku-nezavisimo-ot-summy-zakaza/,"г Москва, пр-кт Ленинградский, д 48",55.796157,37.543488
+334,https://moskvichmag.ru/restorany-i-bary/riesling-boyz-spokojnye-rebyata-so-sretenki-zavershayushhie-den-bokalom-nemetskogo-belogo/,"г Москва, ул Сретенка, д 16/2",55.7682793,37.6324585
+335,https://moskvichmag.ru/restorany-i-bary/tacobar-na-pyatnitskoj-predlagaet-meksikanskuyu-edu-bez-vulgarnyh-stereotipov/,"г Москва, ул Пятницкая, д 59/19 стр 5",55.7332607,37.6277761
+336,https://moskvichmag.ru/restorany-i-bary/grand-kafe-12-zvezd-s-neba-ne-hvataet-zato-predlagaet-obedat-s-ih-portretami/,"г Москва, б-р Гоголевский, д 6 стр 1",55.7455692,37.6014807
+338,https://moskvichmag.ru/restorany-i-bary/v-bardot-na-ostozhenke-predskazuemo-burzhuazno-no-inogda-chuvstvuesh-sebya-kak-v-metro/,"г Москва, ул Остоженка, д 5",55.7432701,37.6013747
+339,https://moskvichmag.ru/restorany-i-bary/v-manana-na-pyatnitskoj-ochen-nerovnaya-kuhnya-i-neponyatnaya-tselevaya-auditoriya/,"г Москва, ул Пятницкая, д 29",55.7410245,37.6287293
+340,https://moskvichmag.ru/restorany-i-bary/v-rebellion-clubhouse-podayut-sytnye-zavtraki-dlya-lyubitelej-szhigat-kalorii-na-velodorozhkah/,"г Москва, б-р Петровский, д 8 стр 1",55.7676994,37.6158975
+341,https://moskvichmag.ru/restorany-i-bary/v-bare-p-y-o-s-esli-najdete-ego-berite-hot-dog-so-shprotami-i-syrnyj-sendvich/,"г Москва, ул Покровка, д 20/1 стр 1",55.7586876,37.6470823
+342,https://moskvichmag.ru/restorany-i-bary/v-krohotnom-aba-bowl-bar-ochen-vkusno-i-deshevo-pravda-tesnovato/,"г Москва, ул Покровка, д 9 стр 1",55.7591258,37.6428607
+343,https://moskvichmag.ru/restorany-i-bary/zozhnyj-create-green-concept-na-patriarshih-rasschitan-na-potrebitelej-pererosshih-prime/,"г Москва, ул Спиридоновка, д 12",55.7598095,37.5944825
+345,https://moskvichmag.ru/restorany-i-bary/poka-nelzya-v-parizh-ostaetsya-pokupat-chai-marko-polo-i-eros-mariage-freres-v-moskve/,"г Москва, ул Охотный Ряд, д 2",55.7571308,37.6171584
+346,https://moskvichmag.ru/restorany-i-bary/redkij-sluchaj-u-bistro-gastro-natura-na-zabelina-net-minusov-otsyuda-ne-hochetsya-uhodit/,"г Москва, ул Забелина, д 1",55.7544762,37.6374428
+347,https://moskvichmag.ru/restorany-i-bary/satsivi-s-osminogom-i-hinkali-s-fialkami-v-hedonist-ustroili-vstryasku-gruzinskoj-kuhne/,"г Москва, б-р Покровский, д 8 стр 1",55.7572225,37.64667
+348,https://moskvichmag.ru/restorany-i-bary/skuchaete-po-frantsii-perezhit-tosku-horosho-pomogayut-kanele-iz-fl-p/,"г Москва, пер Милютинский, д 3",55.7616245,37.6314536
+349,https://moskvichmag.ru/restorany-i-bary/yaponskij-hlopkovyj-chizkejk-stoit-vo-fluffy-fluffy-v-depo-750-rublej-no-zanimajte-ochered/,"г Москва, ул Лесная, д 20 стр 3",55.7801994,37.5929871
+350,https://moskvichmag.ru/restorany-i-bary/dobryakova-bakery-redkij-sluchaj-horoshej-konditerskoj-v-dizajnerskom-magazine/,"г Москва, пер Малый Кисловский, д 9 стр 1",55.756127,37.602312
+351,https://moskvichmag.ru/restorany-i-bary/fine-dining-laboratoriya-lavka-chudes-vse-eto-artest-arkadiya-novikova/,"г Москва, пер Трубниковский, д 15 стр 2",55.7543918,37.5864937
+352,https://moskvichmag.ru/restorany-i-bary/maze-na-triumfalnoj-neuklyuzhe-pytaetsya-zakosit-pod-restoran-avtorskoj-kuhni/,"г Москва, ул 1-я Брестская, д 2 стр 3",55.7699039,37.5945083
+353,https://moskvichmag.ru/restorany-i-bary/v-alice-lakrichnyj-sous-i-bisk-prevrashhayut-ledyanuyu-rybu-i-moloduyu-kapustu-v-redkie-delikatesy/,"г Москва, пер Спиридоньевский, д 12/9",55.7628469,37.5961678
+354,https://moskvichmag.ru/restorany-i-bary/v-alma-stoit-brat-idealnuyu-utinuyu-grudku-i-kebaby-iz-yagnenka/,"г Москва, пер Столярный, д 3 к 13",55.7643422,37.5684387
+355,https://moskvichmag.ru/restorany-i-bary/v-latte-bar-na-solyanke-gotovyat-latte-bez-kofeina-i-dazhe-sovsem-bez-kofe/,"г Москва, ул Солянка, д 1/2 стр 1",55.7538589,37.637931
+356,https://moskvichmag.ru/restorany-i-bary/v-le-procope-du-matin-syrniki-na-zavtrak-horosho-idut-pod-akkompanement-starinnogo-royalya/,"г Москва, ул Садовая-Триумфальная, д 20 стр 2",55.7714898,37.6033761
+357,https://moskvichmag.ru/restorany-i-bary/v-shalom-bar-vsegda-veselo-pyano-i-mozhno-sest-ikru-iz-sinenkih-v-tri-chasa-nochi/,"г Москва, б-р Покровский, д 8 стр 2",55.756918,37.646318
+358,https://moskvichmag.ru/restorany-i-bary/v-aprele-geraldine-manit-artishokami-no-pravilnee-zakazat-zdes-dobrotnyj-lukovyj-sup/,"г Москва, ул Остоженка, д 27 к 2",55.7390046,37.5972926
+359,https://moskvichmag.ru/restorany-i-bary/v-bare-davno-k-elyu-predlagayut-pravdivuyu-barabulku-so-vkusom-chernogo-morya/,"г Москва, пер Большой Палашёвский, д 2",55.7633491,37.5971613
+360,https://moskvichmag.ru/restorany-i-bary/vo-flaner-na-chistyh-prudah-izrailskij-shef-neozhidanno-gotovit-luchshuyu-kyuftu-v-moskve/,"г Москва, пер Кривоколенный, д 7",55.7622211,37.6358888
+361,https://moskvichmag.ru/restorany-i-bary/vtoroj-mates-predlagaet-zavtrakat-v-znamenitom-oktagone-zhilyardi/,"г Москва, ул Мантулинская, д 5 стр 11",55.7561477,37.5547868
+362,https://moskvichmag.ru/restorany-i-bary/zavtraki-so-stejkami-iz-mramornoj-govyadiny-v-primebeef-academy-ne-dlya-nezhenok/,"г Москва, пер Рыбников, д 1",55.7675743,37.6325821
+363,https://moskvichmag.ru/restorany-i-bary/k-novym-blyudam-gorynycha-kamamberu-s-tryufelem-i-pitstse-s-anchousami-est-voprosy/,"г Москва, б-р Рождественский, д 1",55.7668089,37.6242515
+364,https://moskvichmag.ru/restorany-i-bary/konoplyanye-syrniki-v-gentle-cafe-skoree-net-chem-da/,"г Москва, б-р Тверской, д 3",55.7583165,37.5980393
+365,https://moskvichmag.ru/restorany-i-bary/pshenka-za-800-rublej-i-zoloto-v-tualete-pavilon-na-patriarshih-sbivaet-s-nog/,"г Москва, пер Большой Патриарший, д 7",55.7634713,37.5928792
+366,https://moskvichmag.ru/restorany-i-bary/s-otkrytiem-lila-pastry-obitateli-sretenki-stanut-tolstymi-i-ochen-dovolnymi/,"г Москва, ул Сретенка, д 22/1 стр 1",55.7694292,37.6326177
+367,https://moskvichmag.ru/restorany-i-bary/sous-sol-na-patriarshih-otkryt-dlya-poklonnikov-belgii-zdes-est-el-vafli-i-pivnoj-sup-velyute/,"г Москва, пер Трёхпрудный, д 11/13 стр 2",55.7654224,37.5957369
+368,https://moskvichmag.ru/restorany-i-bary/indokitaj-poshel-v-narod-s-barskim-razmahom-svojstvennym-proektam-aleksandra-rappoporta/,"г Москва, ул Лесная, д 20 стр 3",55.7801994,37.5929871
+369,https://moskvichmag.ru/restorany-i-bary/poshablim-sprashivayut-hozyajki-restorana-na-leningradke-s-vinom-za-250-pochemu-by-i-net/,"г Москва, пр-кт Ленинградский, д 12",55.780162,37.578855
+371,https://moskvichmag.ru/restorany-i-bary/v-seafood-bar-na-usachevskom-ustritsy-i-midii-svezhi-i-sledovatelno-ochen-dorogi/,"г Москва, ул Усачёва, д 26",55.727506,37.567707
+372,https://moskvichmag.ru/restorany-i-bary/v-more-na-tsentralnom-rynke-stoit-brat-tomlenuyu-ledyanuyu-rybu-i-tomatnyj-sup-s-moreproduktami/,"г Москва, б-р Рождественский",55.7665687,37.6267373
+373,https://moskvichmag.ru/restorany-i-bary/v-horoshej-devochke-berite-gnev-a-ne-nimfomanku/,"г Москва, ул Бронная М., д 10",55.7606455,37.596664
+374,https://moskvichmag.ru/restorany-i-bary/v-pekarne-valiko-patriki-nuzhno-brat-idealnyj-makovyj-pirog/,"г Москва, пер Козихинский Б., д 12/2",55.7632785,37.5969767
+375,https://moskvichmag.ru/restorany-i-bary/vo-flor-na-chistyh-prudah-chuvstvuesh-sebya-kak-v-kakom-nibud-rambuje/,"г Москва, б-р Чистопрудный, д 23 стр 2",55.7606293,37.6471601
+376,https://moskvichmag.ru/restorany-i-bary/vse-blyuda-v-restorane-red-point-stoyat-573-rublya-i-eti-tsifry-uzhe-prinesli-emu-udachu/,"г Москва, ул Лесная, д 20 стр 6",55.7796358,37.5909489
+377,https://moskvichmag.ru/restorany-i-bary/davno-ne-byli-v-tilde-v-menyu-poyavilis-otlichnye-perets-s-anchousami-i-sup-iz-kabachkov/,"г Москва, туп Сытинский, д 5",55.7640939,37.6004536
+378,https://moskvichmag.ru/restorany-i-bary/esli-vy-vdrug-mechtali-o-kofejne-gde-eshhe-i-horosho-gotovyat-to-vot-vam-gentle-cafe/,"г Москва, б-р Тверской, д 3",55.7583165,37.5980393
+379,https://moskvichmag.ru/restorany-i-bary/za-idealnymi-desertami-neozhidanno-nuzhno-zahodit-v-krevetochnyj-scampi-na-patriarshih/,"г Москва, пер Малый Патриарший, д 5 стр 1",55.7633491,37.5912377
+380,https://moskvichmag.ru/restorany-i-bary/kubicheskaya-eda-iz-omg-coffee-na-arme-goditsya-tolko-dlya-instagrama/,"г Москва, пер Нижний Сусальный, д 5 стр 10",55.7606112,37.6643426
+381,https://moskvichmag.ru/restorany-i-bary/posle-chernyh-obuglennyh-profitrolej-v-uilliams-rodnya-perestanet-prosit-svodit-ee-na-patriki/,"г Москва, ул Бронная М., д 20А",55.7626012,37.5955281
+383,https://moskvichmag.ru/restorany-i-bary/sudya-po-raznitse-mezhdu-zavtrakom-i-uzhinom-tsifrovoj-brend-shef-v-she-luchshe-soobrazhaet-s-utra/,"г Москва, ул Большая Никитская, д 15 стр 1",55.7567102,37.6036501
+384,https://moskvichmag.ru/restorany-i-bary/padron-na-strastnom-ulitki-s-vongole-i-krolik-s-shokoladom-dlya-skuchayushhih-po-sredizemnomoryu/,"г Москва, б-р Страстной, д 7 стр 1",55.7672352,37.6082692
+385,https://moskvichmag.ru/restorany-i-bary/russian-wine-bar-teper-razbavlyaet-modnuyu-b-dmitrovku-patrioticheskoj-solidnostyu/,"г Москва, ул Дмитровка Б., д 23 стр 1",55.7657343,37.6096096
+386,https://moskvichmag.ru/restorany-i-bary/bistro-papaya-goditsya-esli-vy-rabotaete-na-paveletskoj-i-kogda-to-byli-na-bali/,"г Москва, Московский п, г Московский, мкр 1-й, д 2 стр 1",55.6047616,37.3513458
+387,https://moskvichmag.ru/restorany-i-bary/v-finch-v-hamovnikah-devushki-pyut-kofe-parni-zavtrakayut-pankejkami-dranikami-i-syrnikami/,"г Москва, ул Зубовская, д 5/36",55.7373863,37.5845575
+388,https://moskvichmag.ru/restorany-i-bary/v-moskve-mnogo-pekaren-no-vse-ravno-vam-nuzhno-v-novuyu-masa-madre-na-solyanke/,"г Москва, ул Солянка, д 1/2 стр 1",55.7538589,37.637931
+389,https://moskvichmag.ru/restorany-i-bary/est-pirozhnye-chitat-prusta-madlen-pytaetsya-otlichatsya-ot-soten-pohozhih-konditerskih/,"г Москва, ул Большая Садовая, д 2/46 стр 1",55.7656701,37.5912446
+390,https://moskvichmag.ru/restorany-i-bary/kebabnaya-puteshestvennitsa-oz-kebab-nakonets-osela-i-ostepenilas-v-pereulkah-zaryadya/,"г Москва, пер Большой Черкасский, д 11 стр 1",55.7570264,37.6271268
+391,https://moskvichmag.ru/restorany-i-bary/kuhnya-afiny-na-b-bronnoj-derzhitsya-za-grecheskie-istoki-no-ne-zabyvaet-pro-nash-stolichnyj-losk/,"г Москва, ул Большая Бронная, д 2/6",55.7600684,37.5975227
+392,https://moskvichmag.ru/restorany-i-bary/priehavshij-iz-peterburga-chang-cafe-uzhe-schitaet-svoj-tom-yam-luchshim-v-moskve-i-ne-zrya/,"г Москва, ул Мясницкая, д 22 стр 1",55.7620634,37.6345654
+393,https://moskvichmag.ru/restorany-i-bary/pashoot-dostavlyaet-neskuchnye-prazdnichnye-zavtraki-s-bukvalno-zolotymi-yajtsami/,"г Москва, ул Центральная",55.6469176,37.4635832
+394,https://moskvichmag.ru/restorany-i-bary/reef-seafood-bistro-redkij-udachnyj-primer-restorana-s-moreproduktami-ne-v-tsentre/,"г Москва, ул Шаболовка, д 19",55.723465,37.6112545
+395,https://moskvichmag.ru/restorany-i-bary/savva-snova-otkrylsya-v-metropole-chtoby-napomnit-o-zapahe-deneg-i-torte-s-seledkoj/,"г Москва, проезд Театральный, д 2",55.7584522,37.6215872
+396,https://moskvichmag.ru/restorany-i-bary/sybarite-idealnoe-mesto-dlya-zhenshhiny-s-horoshim-appetitom/,"г Москва, ул Садовая-Самотёчная, д 20 стр 1",55.7732779,37.6195116
+397,https://moskvichmag.ru/restorany-i-bary/underdog-snova-dokazyvaet-chto-junk-food-mozhet-byt-kachestvennym-i-poetomu-nedeshevym/,"г Москва, ул Маросейка, д 6/8 стр 1",55.7574733,37.6343415
+398,https://moskvichmag.ru/restorany-i-bary/ross-ili-monika-v-stim-gotovyat-syrniki-s-imenami-serialnyh-geroev/,"г Москва, пл Спартаковская, д 16/15 стр 4",55.776032,37.6781196
+400,https://moskvichmag.ru/restorany-i-bary/v-osteria-unica-garantirovany-kachestvennaya-dorogaya-italyanskaya-kuhnya-i-sotsialnaya-distantsiya/,"г Москва, пер Благовещенский, д 10 стр 2",55.7674825,37.598577
+401,https://moskvichmag.ru/restorany-i-bary/v-wrap-kebab-naprasno-mechtayut-pozhenit-gurme-i-stritfud/,"г Москва, ул Маросейка, д 4/2 стр 1",55.7573543,37.6337045
+402,https://moskvichmag.ru/restorany-i-bary/v-chestnoj-kuhne-dlya-osobo-cherstvyh-gotovyat-sup-iz-bobra/,"г Москва, ул Садовая-Черногрязская, д 10/25",55.766825,37.651645
+403,https://moskvichmag.ru/restorany-i-bary/v-novom-koji-stoit-brat-tsyplenka-kimchi-i-pressovannye-sushi/,"г Москва, пер Калашный, д 9",55.7569132,37.5996371
+405,https://moskvichmag.ru/restorany-i-bary/v-ryumochnoj-alesha-i-grafin-est-i-rozovoe-salo-dlya-myasoedov-i-perechnaya-ikra-dlya-vegetariantsev/,"г Москва, ул Верхняя Радищевская, д 15 стр 1",55.7434314,37.6522623
+406,https://moskvichmag.ru/restorany-i-bary/vsya-sol-v-vysokih-oknah-i-krab-kejkah/,"г Москва, ул Забелина, д 1/2",55.7544762,37.6374428
+407,https://moskvichmag.ru/restorany-i-bary/dekabr-samoe-vremya-dlya-tosta-s-fua-gra-pod-reproduktsiyami-baksta-v-laduree-a-la-russe/,"г Москва, ул Никольская, д 5/1",55.7559002,37.6193017
+408,https://moskvichmag.ru/restorany-i-bary/lyubimyj-kebab-non-stop-pereehal-poblizhe-k-zhitelyam-chistyh-prudov-ne-poteryav-kachestva/,"г Москва, ул Мясницкая, д 32 стр 2",55.7652635,37.6395909
+409,https://moskvichmag.ru/restorany-i-bary/my-vas-predupredili-ne-zakazyvajte-v-mollusca-depo-midii-s-konfetami-mms/,"г Москва, ул Лесная, д 20",55.7801994,37.5929871
+410,https://moskvichmag.ru/restorany-i-bary/ooo-devushki-s-yajtsami-priglashaet-na-shumnyj-yarkij-zavtrak-v-eggsellent/,"г Москва, ул Большая Садовая, д 5 к 1",55.769211,37.591793
+411,https://moskvichmag.ru/restorany-i-bary/u-bara-zelenaya-sobaka-udachnyj-adres-i-ostroumnoe-nazvanie-no-mestami-problema-so-vkusom/,"г Москва, ул Кузнецкий Мост, д 3 стр 2",55.7616198,37.6171405
+412,https://moskvichmag.ru/restorany-i-bary/hands-mozhet-pokazatsya-slishkom-prostym-no-imenno-takoj-slozhnoj-prostoty-ne-hvataet-v-moskve/,"г Москва, ул Погодинская, д 2",55.7355323,37.5721119
+413,https://moskvichmag.ru/restorany-i-bary/single-razvivaet-priyatnuyu-tendentsiyu-hodit-est-v-vinnye-bary/,"г Москва, пер Арбатский, д 2/6",55.7519607,37.5969065
+414,https://moskvichmag.ru/restorany-i-bary/santa-baziliya-okazalas-dazhe-bolee-moskovskoj-chem-mariya-santa-toj-zhe-komandy/,"г Москва, пр-кт Мира, д 26 стр 1",55.7779456,37.632989
+415,https://moskvichmag.ru/restorany-i-bary/severyane-teper-predlagayut-zavtrakat-shokoladnymi-tvorozhnymi-koltsami-i-hot-dogami/,"г Москва, ул Большая Никитская, д 12 стр 1",55.756467,37.6065313
+416,https://moskvichmag.ru/restorany-i-bary/skvorets-na-maloj-bronnoj-rabotaet-dlya-lyubitelej-horoshih-syrnikov-v-lyuboe-vremya-dnya/,"г Москва, ул Бронная М., д 4",55.7596096,37.5975069
+417,https://moskvichmag.ru/restorany-i-bary/skvot-vinnaya-idealen-dlya-lyubitelej-i-proverennoj-organiki-i-eksperimentov/,"г Москва, ул Солянка, д 1/2 стр 1",55.7538589,37.637931
+418,https://moskvichmag.ru/restorany-i-bary/v-toto-luchshie-frikadelki-iz-indejki-v-gorode/,"г Москва, пер Столешников, д 7 стр 3",55.7636532,37.6138331
+419,https://moskvichmag.ru/restorany-i-bary/v-tapas-bare-vinovat-ekler-est-eklery-s-fua-gra-i-ugrem-i-s-tataki-iz-govyazhego-serdtsa/,"г Москва, ул Большая Никитская, д 14/2",55.7570643,37.6062847
+420,https://moskvichmag.ru/restorany-i-bary/dorogushhij-balzi-rossi-hochet-byt-blizhe-k-narodu-no-pitstsa-dazhe-desertnaya-ne-dolzhna-stoit-2000-rublej/,"г Москва, пл Кудринская, д 1",55.7591704,37.5808741
+421,https://moskvichmag.ru/restorany-i-bary/novye-galki-v-nachale-strastnogo-grubovaty-na-vid-no-gotovit-v-nih-umeyut/,"г Москва, б-р Страстной, д 4 стр 3",55.7649325,37.608344
+422,https://moskvichmag.ru/restorany-i-bary/plyus-m2-organik-kluba-olivkovyj-chips-s-vyalenym-tartarom-minusy-vse-ostalnoe/,"г Москва, ул Спиридоновка, д 34 стр 1",55.7625352,37.5899554
+423,https://moskvichmag.ru/restorany-i-bary/radi-gribnogo-bulona-s-brioshyu-iz-bambule-nado-brosit-vse-dela-i-priehat-na-solyanku-spetsialno/,"г Москва, ул Солянка, д 1/2",55.7542275,37.6373822
+424,https://moskvichmag.ru/restorany-i-bary/sushi-i-lapsha-v-satoshi-mogut-pokazatsya-skuchnovatymi-no-kakie-tut-tseny-dlya-patriarshih/,"г Москва, пер Козихинский М., д 10 стр 1",55.7643132,37.5964871
+425,https://moskvichmag.ru/restorany-i-bary/alice-na-patriarshih-ponravitsya-tsenitelyam-avtorskoj-kuhni-i-monohromnogo-komforta/,"г Москва, пер Спиридоньевский, д 12/9",55.7628469,37.5961678
+426,https://moskvichmag.ru/restorany-i-bary/mozza-zanyala-na-beloj-ploshhadi-ugol-pitstsy-i-pasty-kotorogo-ne-hvatalo-mestnym-menedzheram/,"г Москва, ул Лесная, д 7",55.7787345,37.5880311
+427,https://moskvichmag.ru/restorany-i-bary/baunti-raj-na-patriarshih-angel-cakes-portit-syusyukane-v-menyu-i-dolgoe-obsluzhivanie/,"г Москва, пер Козихинский Б., д 15",55.7636009,37.5957956
+428,https://moskvichmag.ru/restorany-i-bary/blyuda-s-kejlom-i-avokado-v-beloque-idealny-dlya-devushek-zabotyashhihsya-o-zdorove-i-figure/,"г Москва, ул Рочдельская, д 15 стр 26",55.7551019,37.5611942
+429,https://moskvichmag.ru/restorany-i-bary/v-brodo-na-petrovke-mozhno-pristojno-poest-dnem-chto-ne-chasto-sluchaetsya-s-vinnymi-barami/,"г Москва, ул Петровка, д 28 стр 1",55.7678077,37.6141485
+430,https://moskvichmag.ru/restorany-i-bary/v-holy-basil-horoshie-zdorovye-kashi-no-vafli-bez-muki-vse-ravno-strannye/,"г Москва, б-р Цветной, д 15 стр 1",55.7711641,37.6202241
+431,https://moskvichmag.ru/restorany-i-bary/v-zhemchugah-berite-pastu-iz-molodoj-morkovi-shnitselyu-lvinaya-griva-luchshe-skazat-net/,"г Москва, ул Лесная, д 20 стр 3",55.7801994,37.5929871
+432,https://moskvichmag.ru/restorany-i-bary/v-alkobufete-shashlychnaya-mozhno-vspomnit-luchshee-chto-bylo-v-sssr/,"г Москва, ул Сретенка, д 36",55.7714183,37.6330643
+433,https://moskvichmag.ru/restorany-i-bary/v-gibride-simach-v-nedalnem-modnaya-energiya-simacheva-razbavlyaet-solidnost-novikova/,"г Москва, б-р Тверской, д 15 стр 2",55.7606652,37.6002315
+434,https://moskvichmag.ru/restorany-i-bary/zhitelyam-savelovskoj-povezlo-garazhane-redkij-primer-rajonnoj-pivnoj-s-prilichnoj-edoj/,"г Москва, проезд Бумажный, д 14 стр 1",55.7911554,37.5874996
+435,https://moskvichmag.ru/restorany-i-bary/kafe-rishon-v-evrejskom-muzee-soblyudaet-pervyj-uroven-kashruta-i-pri-etom-absolyutno-universalno/,"г Москва, ул Образцова, д 11 стр 1а",55.789244,37.608086
+437,https://moskvichmag.ru/restorany-i-bary/naskolko-sedobny-kokosovaya-sgushhenka-bez-moloka-i-sahara-i-arahisovaya-pasta-latte-s-kurkumoj/,"г Москва, тер. СНТ Тринити-Сад",55.7540584,37.62049
+438,https://moskvichmag.ru/restorany-i-bary/neobistro-pashoot-posvyashheno-odnomu-produktu-yajtsu-i-etim-vyzyvaet-uvazhenie/,"г Москва, б-р Рождественский",55.7665687,37.6267373
+439,https://moskvichmag.ru/restorany-i-bary/novye-gastroryumochnye-shest-you-shest-po-staromu-raspolagayut-k-mrachnomu-pyanstvu/,"г Москва, ул 1-я Тверская-Ямская, д 2 стр 1",55.7702299,37.5970495
+440,https://moskvichmag.ru/restorany-i-bary/poka-drugie-zavedeniya-otkryvayutsya-i-zakryvayutsya-kafe-dada-lenivo-obnovilo-menyu/,"г Москва, пер 1-й Новокузнецкий, д 5/7",55.7346423,37.632304
+441,https://moskvichmag.ru/restorany-i-bary/s-otkrytiem-ovsyanok-zhiteli-presni-poluchili-idealnoe-mesto-dlya-zavtraka/,"г Москва, пер Столярный, д 3 к 12",55.7641574,37.5689661
+442,https://moskvichmag.ru/restorany-i-bary/sup-iz-kornya-seldereya-v-grape-gotov-poborotsya-za-zvanie-luchshego-v-gorode/,"г Москва, ул Малая Никитская, д 16/5",55.7586962,37.5914252
+443,https://moskvichmag.ru/restorany-i-bary/subzero-iz-peterburga-poselilsya-v-znakovom-meste-so-vsemi-svoimi-yaponskimi-plyusami-i-minusami/,"г Москва, ул Петровка, д 30/7",55.7681462,37.6143906
+444,https://moskvichmag.ru/restorany-i-bary/babuin-otkrylsya-v-depo-na-radost-poklonnikam-pitstsy-iz-simacheva/,"г Москва, платф Депо",55.6745907,37.7285911
+445,https://moskvichmag.ru/restorany-i-bary/v-balagan-tatyany-berkovich-popast-nelegko-no-ono-togo-stoit/,"г Москва, пер Расторгуевский, д 3А",55.765008,37.5684832
+446,https://moskvichmag.ru/restorany-i-bary/v-vermuteria-re-luchshe-vsego-brat-na-zavtrak-yajtso-benedikt-i-fokachchu-s-krevetkami/,"г Москва, пер Богословский, д 16",55.76368,37.598124
+447,https://moskvichmag.ru/restorany-i-bary/v-novom-lotus-room-losos-teriyaki-horosh-chego-ne-skazhesh-o-zharenom-rise-s-yajtsom/,"г Москва, ул Большая Бронная, д 21/13",55.7626489,37.6005387
+448,https://moskvichmag.ru/restorany-i-bary/v-razgar-leta-lisichkami-slozhno-chto-to-isportit-v-loro-oni-okazalis-k-mestu-v-minestrone/,"г Москва, ул Большая Никитская, д 21/18",55.7570441,37.5998996
+449,https://moskvichmag.ru/restorany-i-bary/v-fudholl-tts-druzhba-stoit-podnyatsya-hotya-by-radi-malaj-kofta-iz-masala-house/,"г Москва, ул Дружбы",55.7100354,37.517994
+450,https://moskvichmag.ru/restorany-i-bary/gaspacho-v-grape-stoit-togo-chtoby-priehat-za-nim-spetsialno/,"г Москва, ул Малая Никитская, д 16/5",55.7586962,37.5914252
+451,https://moskvichmag.ru/restorany-i-bary/zhitelyam-aeroporta-povezlo-u-nih-teper-est-okno-sendvich-bro-s-idealnoj-ulichnoj-edoj/,"г Москва, ул Черняховского, д 4А",55.803196,37.534237
+453,https://moskvichmag.ru/restorany-i-bary/na-balkone-maritozzo-nad-m-bronnoj-etim-letom-s-tarelkoj-pasty-hot-raz-dolzhen-posidet-kazhdyj/,"г Москва, ул Бронная М., д 24 стр 1",55.7632936,37.5946932
+454,https://moskvichmag.ru/restorany-i-bary/novoe-letnee-menyu-krabovkutabov-posvyashheno-ogurtsu-i-eto-ochen-pravilno/,"г Москва, ул Лесная, д 20 стр 4",55.779474,37.59189
+455,https://moskvichmag.ru/restorany-i-bary/u-kafe-syur-v-garazhe-s-ego-art-obektom-h-vam-i-sendvichem-ubijtsej-minusov-net/,"г Москва, пер Большой Трёхсвятительский, д 2/1 стр 8",55.7548238,37.6429536
+456,https://moskvichmag.ru/gorod/chto-horoshego-i-plohogo-v-globuse-gurme-local-na-maloj-bronnoj/,"г Москва, ул Бронная М., д 21/13 стр 2",55.7627515,37.5945116
+457,https://moskvichmag.ru/restorany-i-bary/shef-aleksandr-rajlyan-predlagaet-v-ray-sredi-prochego-interesnyj-vzglyad-na-hot-dog/,"г Москва, ул Неглинная, д 8/10",55.7614578,37.6205839
+458,https://moskvichmag.ru/restorany-i-bary/etim-letom-ping-pong-club-moscow-razbavlyaet-zastyvshuyu-burzhuaznost-restoranov-tverskogo-bulvara/,"г Москва, б-р Тверской, д 26",55.7633423,37.6045892
+460,https://moskvichmag.ru/restorany-i-bary/v-moskve-est-dve-verandy-na-kotoryh-s-kazhdym-letom-stanovitsya-tolko-luchshe/,"г Москва, ул Тверская, д 23/12",55.7666237,37.6000136
+462,https://moskvichmag.ru/restorany-i-bary/v-tsentre-moskvy-net-nichego-bolee-letnego-chem-est-seviche-v-starike-i-more-s-vidom-na-prud/,"г Москва, б-р Чистопрудный, д 12А стр 1",55.7605609,37.643604
+463,https://moskvichmag.ru/restorany-i-bary/dazhe-svoj-redkij-kosyak-dostavka-gallery-to-go-iskupaet-tak-chto-ostaetsya-odnoj-iz-luchshih/,"г Москва, ул Петровка, д 27",55.7676598,37.6135922
+464,https://moskvichmag.ru/restorany-i-bary/dostavka-regent-rasschitana-na-gotovyh-platit-za-horoshie-produkty-i-v-eto-nespokojnoe-vremya/,"г Москва, пер Плотников, д 12",55.7460471,37.5891832
+465,https://moskvichmag.ru/restorany-i-bary/esli-nadoela-dostavka-ramen-iz-gutai-mozhno-zakazat-v-samom-gastropabe-i-sest-tut-zhe/,"г Москва, ул Бронная М., д 26 стр 1",55.7635236,37.5944831
+466,https://moskvichmag.ru/restorany-i-bary/zakusyvat-na-podokonnike-deshevoj-koryushkoj-i-krevetkami-dobro-pozhalovat-v-ohotku/,"г Москва, ул Маросейка, д 6/8 стр 1",55.7574733,37.6343415
+469,https://moskvichmag.ru/restorany-i-bary/novaya-terrasa-rossini-tochno-stanet-tsentrom-negi-i-chrevougodiya-etogo-leta/,"г Москва, ул Поварская, д 11 стр 1",55.754097,37.5943178
+470,https://moskvichmag.ru/restorany-i-bary/novyj-papa-nokki-neploho-spravlyaetsya-s-odnim-iz-stolpov-italyanskoj-kuhni/,"г Москва, ул Малая Дмитровка, д 3",55.7669344,37.6059165
+471,https://moskvichmag.ru/restorany-i-bary/sidet-na-kroshechnoj-terrase-focacceria-na-m-bronnoj-eto-kak-spustitsya-v-metro-v-chas-pik/,"г Москва, ул Бронная М., д 26 стр 1",55.7635236,37.5944831
+474,https://moskvichmag.ru/restorany-i-bary/etim-letom-brat-hinkali-za-hvostik-nado-v-novom-mama-tuta/,"г Москва, ул Бронная М., д 24 стр 1",55.7632936,37.5946932
+475,https://moskvichmag.ru/restorany-i-bary/chick-orico-dostavlyaet-deshevyj-vo-vseh-smyslah-korejskij-dzhank-fud-pytayas-eshhe-i-ostrit/,"г Москва, ул Бутырская, д 46 стр 1",55.7994691,37.5847983
+476,https://moskvichmag.ru/restorany-i-bary/shwarmsesame-dostavlyaet-sovsem-nedoroguyu-shaurmu-s-kyuftoj-i-ne-tolko/,"г Москва, ул Покровка, д 2/1 стр 1",55.758026,37.638976
+479,https://moskvichmag.ru/restorany-i-bary/v-tazhinerii-mozhno-smelo-zakazyvat-sup-harira-i-tazhin-s-yagnenkom-i-mindalem/,"г Москва, ул Мытная, д 74",55.712116,37.6206142
+480,https://moskvichmag.ru/restorany-i-bary/v-dostavke-meksikanskoj-veladora-horoshi-tako-s-yagnenkom-i-sendvich-s-tremya-vidami-svininy/,"г Москва, ул Покровка, д 2/1 стр 1",55.758026,37.638976
+481,https://moskvichmag.ru/restorany-i-bary/vrode-by-nichego-net-banalnee-morkovnogo-torta-poka-vy-ego-ne-zakazhete-v-niqa/,"г Москва, ул Остоженка, д 27 к 3",55.7386886,37.5971881
+482,https://moskvichmag.ru/restorany-i-bary/dlya-sidyashhih-na-diete-etot-kulich-zameshan-na-mindalnoj-muke-kokosovyh-slivkah-i-tvorozhnom-syre/,"г Москва, тер. СНТ Тринити-Сад",55.7540584,37.62049
+485,https://moskvichmag.ru/restorany-i-bary/kogda-len-gotovit-doma-supy-vyruchaet-singapurskaya-laksa-iz-tokio/,"г Москва, ул Большая Никитская, д 22/2",55.7570144,37.6028697
+486,https://moskvichmag.ru/restorany-i-bary/len-lepit-pelmeni-u-blanketko-dostavka-otlichnyh-raviolej-s-krevetkami-motsarelloj-i-shpinatom/,"г Москва, пер Ермолаевский, д 4",55.7629736,37.5896878
+487,https://moskvichmag.ru/restorany-i-bary/poltsyplenka-v-hmelnoj-karameli-iz-taiga-primiryat-s-nevozmozhnostyu-sezdit-na-shashlyki/,"г Москва, ул Лесная, д 20 стр 3",55.7801994,37.5929871
+488,https://moskvichmag.ru/restorany-i-bary/pomimo-zharenogo-risa-i-pelmenej-v-dostavke-j-z-peking-duck-est-tselyh-sem-gotovyh-karantinnyh-setov/,"г Москва, б-р Цветной, д 21 стр 2",55.7720772,37.6199957
+489,https://moskvichmag.ru/restorany-i-bary/s-baranimi-rebryshkami-iz-dostavki-probka-na-tsvetnom-ne-nuzhny-nikakie-pikniki/,"г Москва, б-р Цветной, д 15 стр 1",55.7711641,37.6202241
+494,https://moskvichmag.ru/restorany-i-bary/budete-na-mayakovskoj-poprobujte-pechenuyu-tykvu-v-gashek-ona-prigotovlena-idealno/,"г Москва, ул Большая Садовая, д 5 к 1",55.769211,37.591793
+495,https://moskvichmag.ru/restorany-i-bary/budete-utrom-na-maloj-bronnoj-zakazhite-v-13-briosh-s-guakamole-grechnevuyu-kashu-luchshe-ne-nado/,"г Москва, ул Бронная М., д 13",55.7598697,37.5959892
+496,https://moskvichmag.ru/restorany-i-bary/v-manneken-pis-luchshij-vybor-k-belgijskomu-elyu-midii-s-ekoferm-chernogo-morya/,"г Москва, ул Петровка, д 15",55.7636031,37.6166162
+497,https://moskvichmag.ru/restorany-i-bary/v-zotman-pizza-na-bojkom-meste-solyanki-mozhno-bystro-poobedat-samim-pridumannoj-pitstsej/,"г Москва, ул Солянка, д 1/2 стр 1",55.7538589,37.637931
+498,https://moskvichmag.ru/restorany-i-bary/v-vine-v-bolshom-gorode-pomimo-sobstvenno-vina-horosh-kozlenok-s-nutovym-pyure/,"г Москва, б-р Никитский, д 12",55.7553212,37.6005218
+499,https://moskvichmag.ru/restorany-i-bary/v-bare-drywet-podayut-pashtet-v-forme-mishek-gammi-i-eto-ochen-trogatelno/,"г Москва, ул Тверская, д 27 стр 1",55.7682172,37.5983938
+500,https://moskvichmag.ru/restorany-i-bary/vse-srazu-v-novom-taste-est-i-borshh-i-falafel-i-kraby-i-kutaby-i-eto-perebor/,"г Москва, ул Ильинка, д 3/8 стр 5",55.7545007,37.6243651
+501,https://moskvichmag.ru/restorany-i-bary/novyj-sverstnik-pohozh-na-samu-molodost-bodr-podvizhen-i-ne-trebuet-mnogogo/,"г Москва, ул Палиха, д 14/33 стр 2",55.7845467,37.6002974
+503,https://moskvichmag.ru/restorany-i-bary/u-novogo-zemlya-moscow-chereschur-avtorskoe-prochtenie-blyud-so-vsego-mira/,"г Москва, пер Большой Саввинский, д 12 стр 6",55.733239,37.563709
+504,https://moskvichmag.ru/restorany-i-bary/introvert-place-na-myasnitskoj-idealen-dlya-vegetariantsev-kotorye-izbegayut-vseh-ostalnyh-lyudej/,"г Москва, ул Мясницкая, д 41 стр 3",55.7684225,37.6426459
+505,https://moskvichmag.ru/restorany-i-bary/gubiteli-karmanov-i-serdets-podayut-v-vechnyh-frantsuzah-pravilnyj-lukovyj-sup/,"г Москва, ул Кузнецкий Мост, д 19 стр 1",55.7625355,37.6257657
+506,https://moskvichmag.ru/restorany-i-bary/na-vina-pohozh-na-hitruyu-piterskuyu-bogemu-kotoraya-tolko-pritvoryaetsya-bednoj/,"г Москва, пер Калашный, д 9",55.7569132,37.5996371
+507,https://moskvichmag.ru/restorany-i-bary/antipriz-za-hudshij-kurinyj-sup-etoj-zimy-poluchaet-gastrobar-belka/,"г Москва, ул Петровка, д 15",55.7636031,37.6166162
+508,https://moskvichmag.ru/restorany-i-bary/brisket-v-novom-smoke-bbq-stoit-pod-2000-rublej-i-vse-ravno-bez-zakaza-stolika-ne-syadesh/,"г Москва, ул Трубная, д 18",55.7694941,37.6254698
+509,https://moskvichmag.ru/restorany-i-bary/budete-v-repine-vozmite-holodets-s-varenem-iz-repy-russkie-zhe/,"г Москва, б-р Сретенский, д 6/1 стр 1",55.7658081,37.6334694
+510,https://moskvichmag.ru/restorany-i-bary/budete-na-tverskom-zakazhite-utinyj-sup-v-inostrantsah-on-horosh/,"г Москва, б-р Тверской, д 24",55.7623185,37.6038101
+511,https://moskvichmag.ru/restorany-i-bary/v-j-z-peking-duck-ne-tolko-prinosyat-luchshuyu-utku-v-gorode-no-i-varyat-iz-ee-ostatkov-sup/,"г Москва, б-р Цветной, д 21 стр 2",55.7720772,37.6199957
+512,https://moskvichmag.ru/restorany-i-bary/v-shortlist-books-spirits-ubeditelno-dokazyvayut-chto-luchshij-drug-vypivayushhego-cheloveka-horoshaya-kniga/,"г Москва, ул Петровка, д 26",55.7661838,37.617844
+513,https://moskvichmag.ru/restorany-i-bary/v-kofedej-na-mayakovskoj-stoit-zajti-hotya-by-radi-lilovoj-kisy/,"г Москва, ул Садовая-Триумфальная, д 18-20",55.7716456,37.6028246
+514,https://moskvichmag.ru/restorany-i-bary/v-myasa-vina-skazhem-da-govyazhim-shhekam-s-kashtanami-i-net-stejku-iz-avokado/,"г Москва, ул Покровка, д 4",55.7584993,37.6410708
+515,https://moskvichmag.ru/restorany-i-bary/v-grecheskom-eva-pereehavshij-v-moskvu-iz-avstralii-glen-ballis-vspominaet-svoi-korni/,"г Москва, ул Большая Грузинская, д 69",55.77396,37.586293
+516,https://moskvichmag.ru/restorany-i-bary/v-novom-eat-market-v-zdanii-izvestij-net-nichego-chto-by-my-ne-eli-ranshe/,"г Москва, пл Пушкинская, д 3",55.7657746,37.6047728
+517,https://moskvichmag.ru/restorany-i-bary/v-pervoj-kofejne-flip-byvshej-hozyajki-dablbi-berite-syrniki-v-steklyannoj-banke/,"г Москва, пер Милютинский, д 3",55.7616245,37.6314536
+518,https://moskvichmag.ru/restorany-i-bary/vo-frankie-s-bruklinskoj-pitstsej-nikak-ne-poluchaetsya-pochuvstvovat-sebya-kak-v-brukline/,"г Москва, пер Красина, д 7",55.7679623,37.5855494
+519,https://moskvichmag.ru/restorany-i-bary/za-modnym-etoj-zimoj-v-moskve-tomatnym-supom-s-moreproduktami-neozhidanno-stoit-idti-v-grape-wine-bar/,"г Москва, б-р Новинский, д 7",55.7516947,37.5826847
+520,https://moskvichmag.ru/restorany-i-bary/zavtraki-v-choice-healthy-social-club-pridumany-dlya-lyudej-kotorye-zabotyatsya-o-zdorove-i-nikuda-ne-speshat/,"г Москва, ул Малая Никитская, д 16/5",55.7586962,37.5914252
+522,https://moskvichmag.ru/restorany-i-bary/novyj-pino-zastolbil-vygodnejshee-mesto-na-patriarshih-esli-by-ego-eda-sootvetstvovala-adresu/,"г Москва, ул Бронная М., д 21/13",55.7626964,37.5949315
+523,https://moskvichmag.ru/restorany-i-bary/panna-kotta-v-margarita-bistro-na-m-bronnoj-stoit-togo-chtoby-vernutsya-v-ofis-s-obeda-popozzhe/,"г Москва, ул Бронная М., д 28",55.7636708,37.5942627
+524,https://moskvichmag.ru/restorany-i-bary/restoran-eaters-byl-by-neploh-esli-by-ne-pytalsya-pretendovat-na-to-chem-ne-yavlyaetsya/,"г Москва, ул Садовая-Спасская, д 12/23 стр 2",55.7705205,37.6415646
+526,https://moskvichmag.ru/restorany-i-bary/fika-idealnoe-kafe-dlya-fleksitariantsev-kotorye-pozdno-vstayut/,"г Москва, ул Садовая-Сухаревская, д 15 стр 1",55.7742681,37.6259435
+527,https://moskvichmag.ru/restorany-i-bary/turnedo-rossini-iz-rossini-aleksandra-rappoporta-hot-raz-v-zhizni-obyazan-sest-kazhdyj/,"г Москва, ул Поварская, д 11 стр 1",55.754097,37.5943178
+528,https://moskvichmag.ru/restorany-i-bary/bar-moskovskij-old-skul-sdelan-propagandistami-sovetskogo-stilya-kotorye-yavno-ne-pomnyat-sssr/,"г Москва, ул Садовая-Самотёчная, д 6 стр 1",55.772596,37.6139243
+529,https://moskvichmag.ru/restorany-i-bary/v-levantine-gotovyat-shefy-iz-stambula-tak-chto-za-kachestvo-kebabov-mozhno-ne-volnovatsya/,"г Москва, б-р Новинский, д 8",55.7512181,37.5846061
+530,https://moskvichmag.ru/restorany-i-bary/v-tut-ne-pekut-gotovyat-chto-to-ranee-nevidannoe-poleznye-dlya-zdorovya-torty/,"г Москва, ул Покровка, д 4 стр 1",55.7585165,37.6411354
+531,https://moskvichmag.ru/restorany-i-bary/v-13-arkadij-novikov-i-glen-ballis-legko-zastavlyayut-nas-polyubit-tsvetnuyu-kapustu-i-luk/,"г Москва, ул Бронная М., д 13",55.7598697,37.5959892
+532,https://moskvichmag.ru/restorany-i-bary/v-novyj-scampi-mozhno-hodit-hot-dve-nedeli-podryad-chtoby-probovat-krevetki-s-15-sousami/,"г Москва, пер Малый Патриарший, д 5 стр 1",55.7633491,37.5912377
+533,https://moskvichmag.ru/restorany-i-bary/v-restoran-logovo-stoit-idti-radi-prigotovlennoj-po-frantsuzski-dichi/,"г Москва, ул Хамовнический Вал, д 2",55.7160449,37.57665
+534,https://moskvichmag.ru/restorany-i-bary/v-restorane-dereza-izvestnyj-kritik-darya-tsivina-znaet-chto-delat-s-kozoj-nostroj/,"г Москва, ул Нижняя Красносельская, д 35 стр 49",55.7755418,37.6721938
+535,https://moskvichmag.ru/restorany-i-bary/kak-iz-lyubogo-horoshego-gruzinskogo-restorana-iz-novogo-tenili-ujti-slozhno/,"г Москва, пер Благовещенский, д 1",55.7666695,37.5959205
+536,https://moskvichmag.ru/restorany-i-bary/luchshaya-novost-dlya-rabotayushhih-v-rajone-petrovki-officina-otkryl-tam-filial/,"г Москва, ул Забелина, д 1",55.7544762,37.6374428
+538,https://moskvichmag.ru/restorany-i-bary/na-sadovoj-samotechnoj-rabotaet-otlichnaya-polutajnaya-trattoriya-s-nevysokimi-tsenami-ne-blagodarite/,"г Москва, ул Садовая-Самотёчная, д 7",55.7738893,37.6159607
+539,https://moskvichmag.ru/restorany-i-bary/novyj-arbat-stanovitsya-vynosimee-esli-zajti-zdes-v-tihij-abbey-players-pub-s-veshhami-iz-xix-veka/,"г Москва, ул Новый Арбат, д 5",55.7527045,37.5980457
+540,https://moskvichmag.ru/restorany-i-bary/posle-obeda-v-uhvate-vy-nachnete-otnositsya-k-grechke-i-perlovke-s-bolshim-uvazheniem/,"г Москва, ул Рочдельская, д 15, кв 41",55.7566389,37.5600884
+541,https://moskvichmag.ru/restorany-i-bary/uilyam-lamberti-teper-otnositsya-k-ede-s-dotoshnostyu-dorogogo-portnogo/,"г Москва, ул Тверская, д 3",55.7572218,37.6129331
+543,https://moskvichmag.ru/restorany-i-bary/junk-food-bar-so-vkusom-delaet-vse-chtoby-vy-vesili-bolshe-i-prozhili-menshe/,"г Москва, ул Спиридоновка, д 25/20 стр 1",55.7626611,37.5891752
+544,https://moskvichmag.ru/restorany-i-bary/gurman-shaurman-na-prospekte-mira-tot-sluchaj-kogda-deshevo-mnogo-i-nevozmozhno-est/,"г Москва, пр-кт Мира, д 26 стр 1",55.7779456,37.632989
+545,https://moskvichmag.ru/restorany-i-bary/pifagor-u-aleksandra-rappoporta-snova-poluchilos-sdelat-svetskoe-mesto-gde-eshhe-i-ochen-vkusno/,"г Москва, пл Трубная, д 2",55.7665848,37.6223619
+546,https://moskvichmag.ru/restorany-i-bary/bar-zhuravli-mozhet-izmenit-vashi-predstavleniya-o-tom-chto-takoe-pit-po-russki/,"г Москва, пер Столешников, д 14",55.7627955,37.6151952
+547,https://moskvichmag.ru/restorany-i-bary/brosajte-vse-dela-na-prospekte-mira-najdena-idealnaya-shaverma-kebab-non-stop/,"г Москва, пр-кт Мира, д 40",55.780233,37.633679
+548,https://moskvichmag.ru/restorany-i-bary/v-made-mozhno-pozhalovatsya-tolko-na-ogromnye-portsii-vsem-by-restoranam-takie-nedostatki/,"г Москва, б-р Сретенский, д 1",55.7669223,37.6323303
+549,https://moskvichmag.ru/restorany-i-bary/v-supernova-berite-samuyu-deshevuyu-pitstsu-s-bananami-i-kakao-ona-zhe-samaya-vkusnaya/,"г Москва, ул Садовая-Каретная, д 20 стр 1",55.7728535,37.6103605
+550,https://moskvichmag.ru/restorany-i-bary/v-52-v-tsvetnom-predlagayut-vegetarianskuyu-edu-v-ekologicheskom-kontekste/,"г Москва, б-р Цветной, д 15 стр 1",55.7711641,37.6202241
+551,https://moskvichmag.ru/restorany-i-bary/v-novom-myasnom-restorane-zhazhda-krovi-strashnye-kartinki-tush-na-stenah-nazvanie-i-tseny/,"г Москва, ул Лесная, д 9",55.7789788,37.5885143
+552,https://moskvichmag.ru/restorany-i-bary/v-novom-peruanskom-restorane-lima-mozhno-smelo-zakazyvat-seviche-kesadilyas-i-takos/,"г Москва, пр-кт Ленинградский, д 10",55.779712,37.579933
+553,https://moskvichmag.ru/restorany-i-bary/gotovtes-pit-v-herbarium-bar-by-polugar-koktejl-manernyj-i-chuvstvovat-sebya-kak-v-vagone-restorane/,"г Москва, ул Петровка, д 21",55.7656497,37.6155122
+554,https://moskvichmag.ru/restorany-i-bary/luchshee-chto-est-v-idealiste-na-petrovke-koktejli-dlya-pechali-i-radosti-a-takzhe-gneva-i-strasti/,"г Москва, ул Петровка, д 30/7",55.7681462,37.6143906
+555,https://moskvichmag.ru/restorany-i-bary/moskovskij-yaponets-kobayashi-katsuhiko-delaet-v-izumi-na-myasnitskoj-idealnyj-ramen/,"г Москва, ул Мясницкая, д 38 стр 1",55.766153,37.64011
+556,https://moskvichmag.ru/restorany-i-bary/perechislyaem-plyusy-i-minusy-novogo-uvlecheniya-moskovskih-zozhnikov-brone-latte-s-rejshi/,"г Москва, Воскресенское п, снт Бывший Сад",55.7540584,37.62049
+557,https://moskvichmag.ru/restorany-i-bary/radi-vitello-tonnato-iz-il-siciliano-mozhno-poterpet-dazhe-obstanovku-serediny-nulevyh/,"г Москва, пр-кт Кутузовский, д 17",55.7469472,37.5569074
+558,https://moskvichmag.ru/restorany-i-bary/u-big-asia-ne-poluchaetsya-to-za-chto-bralis-v-moskve-mnogie-stat-horoshim-panaziatskim-restoranom/,"г Москва, ул Земляной Вал, д 3/1 стр 6",55.763209,37.657655
+559,https://moskvichmag.ru/restorany-i-bary/uilliams-podtverzhdaet-svoj-status-starozhila-patrikov-postnym-menyu-s-rizotto-primavera/,"г Москва, ул Бронная М., д 20А",55.7626012,37.5955281
+560,https://moskvichmag.ru/restorany-i-bary/kolobok-novyj-konkurent-kroshkam-kartoshkam-kroketam-i-odnovremenno-ponchikam/,"г Москва, ул Новорязанская, д 23 стр 1",55.7726269,37.663391
+561,https://moskvichmag.ru/restorany-i-bary/bar-hanky-3-7-najti-nelegko-no-luchshie-v-gorode-bitye-ogurtsy-i-koktejl-yutas-tie-togo-stoyat/,"г Москва, ул Покровка, д 3/7 стр 1",55.7586565,37.6402573
+562,https://moskvichmag.ru/restorany-i-bary/v-depo-tak-redko-otkryvayutsya-novye-kornery-chto-my-rady-i-latuku/,"г Москва, п Лесной, д 20 стр 3",55.762048,37.388717
+563,https://moskvichmag.ru/restorany-i-bary/v-chebureki-reshayut-u-savelovskoj-reshayut-i-chebureki-i-hinkali-i-osetinskie-pirogi/,"г Москва, ул Вятская, д 27 стр 4",55.7962062,37.582001
+565,https://moskvichmag.ru/restorany-i-bary/jogicheskoe-menyu-postnye-blyuda-tilda-zaodno-chistyat-i-energeticheskie-kanaly/,"г Москва, туп Сытинский, д 5",55.7640939,37.6004536
+566,https://moskvichmag.ru/restorany-i-bary/kak-pokazyvaet-postnoe-menyu-gayanes-armyanskaya-kuhnya-idealna-i-bez-myasa/,"г Москва, пер 2-й Смоленский, д 1/4",55.7469729,37.5814247
+567,https://moskvichmag.ru/restorany-i-bary/postnoe-menyu-bora-na-pyatnitskoj-igraet-s-traditsionnymi-skrepami-russkoj-kuhni/,"г Москва, ул Пятницкая, д 9/28 стр 1",55.7444406,37.627885
+568,https://moskvichmag.ru/restorany-i-bary/u-vegetarianskogo-refresh-immunnye-eliksiry-po-sezonu-vkusnyj-burger-bez-myasa-i-chistye-pomysly/,"г Москва, ул Спиридоновка, д 26",55.7621293,37.591804
+569,https://moskvichmag.ru/restorany-i-bary/kofetsvet-na-pokrovke-staraetsya-podnyat-vam-nastroenie-inogda-zabyvaya-o-chuvstve-mery-i-zdravom-smysle/,"г Москва, ул Покровка, д 8",55.7587491,37.6427251
+570,https://moskvichmag.ru/restorany-i-bary/v-true-cost-na-b-dmitrovke-vy-poluchite-kalmara-s-nokki-za-169-rublej-i-vid-na-louis-vuitton/,"г Москва, ул Дмитровка Б., д 13",55.7622389,37.6130636
+571,https://moskvichmag.ru/restorany-i-bary/v-tilde-poyavilis-ochen-prilichnye-zavtraki-zhal-chto-tolko-po-vyhodnym/,"г Москва, туп Сытинский, д 5",55.7640939,37.6004536
+572,https://moskvichmag.ru/restorany-i-bary/v-velokafe-salyut-na-strastnom-kormyat-zavtrakami-ot-rassveta-do-zakata/,"г Москва, б-р Страстной, д 12 стр 5",55.7668797,37.6125583
+573,https://moskvichmag.ru/restorany-i-bary/v-kornere-indian-copper-v-depo-nastoyashhie-indusy-gotovyat-bombejskij-plov/,"г Москва, п Лесной",55.762048,37.388717
+574,https://moskvichmag.ru/restorany-i-bary/v-meksikanskom-michelada-stoit-brat-tako-so-svininoj-i-zapivat-ego-pivnymi-koktejlyami/,"г Москва, ул Маросейка, д 4/2 стр 3",55.7572662,37.6341065
+575,https://moskvichmag.ru/restorany-i-bary/v-novom-peqlo-na-pokrovke-ochen-neozhidanno-i-udachno-gotovyat-aziatchinu-s-kubanskim-aktsentom/,"г Москва, ул Покровка, д 1/13/6 стр 2",55.7584665,37.6394294
+576,https://moskvichmag.ru/restorany-i-bary/v-novom-kafe-sojka-napela-gotovyat-edu-s-priyatnymi-fokusami-za-vmenyaemye-dengi/,"г Москва, ул Красная Пресня, д 36 стр 1",55.7624975,37.5668487
+577,https://moskvichmag.ru/restorany-i-bary/v-novuyu-vinodelnyu-1-na-sretenke-stoit-idti-radi-nedorogogo-vina-i-shaurmy-s-krabom/,"г Москва, ул Сретенка, д 1",55.7664942,37.6304456
+580,https://moskvichmag.ru/restorany-i-bary/ot-goryachej-zakuski-s-artishokami-v-italyanskom-gina-cafe-ne-otkazalas-by-i-sama-dzhina-lollobridzhida/,"г Москва, пер Малый Палашёвский, д 5",55.7654097,37.6020235
+581,https://moskvichmag.ru/restorany-i-bary/s-zakrytiem-oversalad-na-sretenke-mogut-primirit-tolko-meze-iz-otkryvshegosya-na-etom-meste-lobbi/,"г Москва, ул Сретенка, д 23/25 стр 1",55.7696336,37.6322195
+582,https://moskvichmag.ru/restorany-i-bary/shef-glen-ballis-zastavit-vas-snova-polyubit-podnadoevshuyu-bylo-burratu-v-medusa-asian-kitchen-bar/,"г Москва, пер Берсеневский, д 2 стр 1",55.7407418,37.6097868
+583,https://moskvichmag.ru/restorany-i-bary/khinka-lee-predlagaet-est-gruzinskuyu-edu-palochkami/,"г Москва, б-р Никитский, д 25",55.7569773,37.5981172
+584,https://moskvichmag.ru/restorany-i-bary/dom-kultur-zamahnulsya-na-svyatoe-sovetskij-glazirovannyj-syrok/,"г Москва, ул Сретенка, д 25",55.7696336,37.6322195
+585,https://moskvichmag.ru/restorany-i-bary/tsirk-pereehal-i-predlagaet-idealnoe-rizotto-s-lisichkami/,"г Москва, б-р Цветной, д 21 стр 7",55.7720644,37.6195821
+586,https://moskvichmag.ru/restorany-i-bary/alkobufet-ryumka-udachno-zapolnyaet-vechno-vostrebovannuyu-v-moskve-nishu-intelligentnoj-ryumochnoj/,"г Москва, ул Мясницкая, д 32 стр 2",55.7652635,37.6395909
+587,https://moskvichmag.ru/restorany-i-bary/bar-soobshhniki-neuklyuzhe-hochet-vas-napoit-i-obuchit-frantsuzskomu-v-tualete/,"г Москва, ул Зацепа, д 26 стр 1",55.7298412,37.6319964
+588,https://moskvichmag.ru/restorany-i-bary/v-beer-happens-junior-prilichnaya-eda-chto-redkost-dlya-pivnogo-bara/,"г Москва, проезд Лубянский, д 25 стр 2",55.7546009,37.6347646
+589,https://moskvichmag.ru/restorany-i-bary/v-laduree-le-skandal-vo-frantsuzskoe-menyu-vtorglis-okroshka-i-medovik/,"г Москва, ул Никольская",55.757045,37.6224857
+590,https://moskvichmag.ru/restorany-i-bary/v-balchuge-sdelajte-ostanovku-u-kornera-we-cidreria-tapasbar-ne-pozhaleete/,"г Москва, ул Балчуг, д 5",55.7471876,37.6260645
+591,https://moskvichmag.ru/restorany-i-bary/v-sihan-turkish-steak-and-kebab-arkadiya-novikova-gotovit-stambulskij-shef-tak-chto-nado-idti-za-myasom/,"г Москва, ул Новый Арбат, д 21",55.7521106,37.5862248
+592,https://moskvichmag.ru/restorany-i-bary/dmitrij-zotov-otkryl-si-i-my-govorim-da-i-chernoj-pitstse-s-kalmarami-i-rizotto-s-tar-tarom-iz-tuntsa/,"г Москва, пр-кт Мира, д 77 к 1",55.789937,37.634299
+593,https://moskvichmag.ru/restorany-i-bary/esli-i-est-v-moskve-sup-andaluzskih-bednyakov-to-tolko-na-tsentralnom-rynke/,"г Москва, б-р Рождественский, д 1",55.7668089,37.6242515
+594,https://moskvichmag.ru/restorany-i-bary/esli-lyubite-skrembl-s-pastrami-seshte-ego-v-bare-casa-corona-kotoryj-bolshe-nichem-ne-primechatelen/,"г Москва, б-р Цветной, д 15 стр 1",55.7711641,37.6202241
+595,https://moskvichmag.ru/restorany-i-bary/zasluzhennaya-moskovskaya-bogema-iz-dachi-na-pokrovke-perehodit-na-belyashi-s-krabom/,"г Москва, ул Покровка",55.7597464,37.6477496
+597,https://moskvichmag.ru/restorany-i-bary/idealnuyu-romovuyu-babu-nuzhno-zakazyvat-v-volkonskom/,"г Москва, пер 1-й Волконский",55.774647,37.6163408
+598,https://moskvichmag.ru/restorany-i-bary/idealnyj-dlya-leta-konservirovannyj-kofe-surf-coffee-kak-minimum-udobno-nosit-s-soboj/,"г Москва, ул Тверская, д 25/12",55.767647,37.5994722
+599,https://moskvichmag.ru/restorany-i-bary/konechno-vy-mechtaete-inogda-sest-salat-olive-v-vafelnom-stakanchike-za-50-rublej/,"г Москва, ул Краснопролетарская, д 16 стр 2",55.7778664,37.6071897
+600,https://moskvichmag.ru/restorany-i-bary/my-vse-eto-vremya-eli-nepravilnuyu-kolbasu-nado-s-blagorodnoj-plesenyu/,"г Москва, пер Вольный",55.7782894,37.7262623
+602,https://moskvichmag.ru/restorany-i-bary/novye-midii-mechty-uvodyat-ne-tuda-gde-mechty-sbyvayutsya/,"г Москва, б-р Рождественский, д 1",55.7668089,37.6242515
+603,https://moskvichmag.ru/restorany-i-bary/radi-zelenogo-gaspacho-v-blanc-mozhno-ehat-spetsialno-hot-s-drugogo-kontsa-moskvy/,"г Москва, пер Хохловский, д 7 стр 5",55.7560861,37.6429355
+604,https://moskvichmag.ru/restorany-i-bary/chto-est-a-chto-luchshe-ne-nado-v-veganskom-flora-no-fauna/,"г Москва, б-р Рождественский, д 7 к 1",55.7665687,37.6267373
+605,https://moskvichmag.ru/restorany-i-bary/atelier-de-tartelettes-na-patriarshih-stalo-eshhe-slashhe/,"г Москва, пер Спиридоньевский, д 10А",55.7626113,37.5957369
+606,https://moskvichmag.ru/restorany-i-bary/the-y-v-hamovnikah-da-kurinoj-pecheni-s-ajvoj-net-makreli-so-svekloj/,"г Москва, ул Малая Пироговская, д 8",55.729669,37.570486
+607,https://moskvichmag.ru/restorany-i-bary/wood-wood-burgers-zastavili-nas-snova-polyubit-nadoevshuyu-za-poslednie-5-7-let-kotletu/,"г Москва, Московский п, г Московский, мкр 3-й, д 4/2 стр 1",55.597251,37.341062
+608,https://moskvichmag.ru/restorany-i-bary/napitki-eto-bar-kotoryj-slozhno-najti-i-v-kotorom-pochti-nechego-pit/,"г Москва, ул Кузнецкий Мост, д 19 стр 1",55.7625355,37.6257657
+609,https://moskvichmag.ru/restorany-i-bary/shaurmyane-starayutsya-pripodnyat-privokzalnyj-format-no-sami-vse-portyat/,"г Москва, ул 2-я Брестская, д 43",55.7746056,37.5837572
+610,https://moskvichmag.ru/restorany-i-bary/autentichnyj-fo-bo-iz-podvala-pho7-v-samom-tsentre-moskvy-trebuet-zhertv/,"г Москва, ул Садовая-Каретная, д 4-6 стр 1",55.7724204,37.6064322
+611,https://moskvichmag.ru/restorany-i-bary/v-lure-me-na-patriarshih-horosh-holodnyj-tajskij-sup-i-moktejli-to-chto-i-nuzhno-letom/,"г Москва, ул Бронная М., д 19",55.7622495,37.5953189
+612,https://moskvichmag.ru/restorany-i-bary/vegetariantsev-tochno-dolzhny-razveselit-semena-konopli-iz-speshl-boula-v-volne/,"г Москва, наб Сыромятническая, д 10 стр 7",55.7525499,37.6723628
+613,https://moskvichmag.ru/restorany-i-bary/esli-kitajskaya-zabegalovka-ot-arkadiya-novikova-to-i-salat-tam-za-2190-rublej/,"г Москва, ул Лесная, д 20 стр 4",55.779474,37.59189
+614,https://moskvichmag.ru/restorany-i-bary/izvestnye-svoimi-syrami-dolce-latte-torguyut-na-usachevskom-umopomrachitelnymi-pashtetami/,"г Москва, ул Усачёва, д 26",55.727506,37.567707
+615,https://moskvichmag.ru/restorany-i-bary/kogda-ne-znaesh-za-chto-lyubit-prawns-eshhe-bolshe-oni-zavozyat-vkusnyh-grenlandskih-medvezhat/,"г Москва, пер Усачёвский",55.7271354,37.5672254
+616,https://moskvichmag.ru/restorany-i-bary/kokosovyj-jogurt-yoco-bez-konservantov-i-laktozy-priduman-dlya-poklonnikov-zdorovoj-edy-i-zharkoj-pogody/,"г Москва, Воскресенское п, снт Бывший Сад",55.7540584,37.62049
+617,https://moskvichmag.ru/restorany-i-bary/moskve-davno-nedostavalo-takih-indijskih-restoranov-kak-novyj-dhaba/,"г Москва, ул Новолесная, д 2",55.7816568,37.5923118
+618,https://moskvichmag.ru/restorany-i-bary/na-patriarshih-obnaruzhena-vkusnejshaya-mozgovaya-kost/,"г Москва, пер Спиридоньевский, д 12/9",55.7628469,37.5961678
+619,https://moskvichmag.ru/restorany-i-bary/na-usachevskom-obnaruzhen-idealnyj-norvezhskij-syr/,"г Москва, пер Усачёвский",55.7271354,37.5672254
+620,https://moskvichmag.ru/restorany-i-bary/na-usachevskom-obnaruzhen-redkij-otechestvennyj-marmelad-iz-ajvy/,"г Москва, ул Усачёва, д 26",55.727506,37.567707
+621,https://moskvichmag.ru/restorany-i-bary/naskolko-horosh-lzhesyr-iz-keshyu/,"г Москва, ул Бронная М., д 28",55.7636708,37.5942627
+622,https://moskvichmag.ru/restorany-i-bary/novyj-malenkij-bijou-bar-tot-samyj-idealnyj-bar-u-metro-kotoryh-u-nas-tak-malo/,"г Москва, ул Новослободская, д 16А",55.782182,37.599911
+624,https://moskvichmag.ru/restorany-i-bary/poka-luchshij-gaspacho-etogo-leta-mozhno-sest-v-schweppes-bar-kotoryj-prosushhestvuet-mesyatsa-poltora/,"г Москва, б-р Тверской",55.7609784,37.601902
+625,https://moskvichmag.ru/restorany-i-bary/prilichnaya-vypivka-i-eda-za-nebolshie-dengi-rovesnik-ne-podvodit/,"г Москва, пер Гнездниковский М., д 9 стр 1",55.7624873,37.6055726
+626,https://moskvichmag.ru/restorany-i-bary/u-malenkogo-no-ochen-simpatichnogo-taco-project-v-veskovskom-prakticheski-net-nedostatkov/,"г Москва, пер Весковский, д 3",55.778733,37.5988436
+628,https://moskvichmag.ru/restorany-i-bary/remy-burger-ponravitsya-i-posetitelyam-kotorye-obychno-ne-edyat-burgery/,"г Москва, ул Дмитровка Б., д 12/1",55.7615325,37.614682
+629,https://moskvichmag.ru/restorany-i-bary/blagodarya-batonu-teper-mozhno-vspomnit-vkus-sovetskih-rogalikov/,"г Москва, пер Большой Тишинский, д 10 стр 1",55.7690523,37.577104
+630,https://moskvichmag.ru/restorany-i-bary/v-barceloneta-iz-depo-horoshi-tapasy-s-avokado-no-yaichnitsa-za-1000-rublej-perebor/,"г Москва, платф Депо",55.6745907,37.7285911
+631,https://moskvichmag.ru/restorany-i-bary/v-drywet-bar-est-kotiki-koktejl-konformist-i-nadpis-okstis-to-est-vse-chto-nuzhno-cheloveku-posle-raboty/,"г Москва, ул Тверская, д 27 стр 1",55.7682172,37.5983938
+633,https://moskvichmag.ru/restorany-i-bary/v-bar-hydra-stoit-idti-za-genialnym-stejkom-iz-tsvetnoj-kapusty/,"г Москва, б-р Никитский, д 11/12 стр 1",55.7550286,37.5995518
+634,https://moskvichmag.ru/restorany-i-bary/v-restoran-frank-repera-basty-nado-bezhat-za-svinymi-rebrami-s-zharenoj-kartoshkoj/,"г Москва, ул Рождественка, д 5/7",55.7616196,37.6231771
+635,https://moskvichmag.ru/restorany-i-bary/esli-nadoelo-tolkatsya-v-pyatnitsu-v-nure-ego-komanda-zhdet-vas-v-kotelnoj/,"г Москва, ул Лесная, д 20 стр 3",55.7801994,37.5929871
+636,https://moskvichmag.ru/restorany-i-bary/na-otkryvshemsya-vtorom-etazhe-doma-kultur-berite-seviche-syrniki-i-shakshuku/,"г Москва, ул Сретенка, д 25",55.7696336,37.6322195
+638,https://moskvichmag.ru/restorany-i-bary/ne-soblyudaete-post-ne-vegetarianets-vam-v-meat-dealers-za-idealnym-stejkom-minutka/,"г Москва, ул Лесная, д 20",55.7801994,37.5929871
+639,https://moskvichmag.ru/restorany-i-bary/novoe-mesto-idealno-dlya-lyubitelej-humusa-chasto-byvayushhih-v-rajone-arbata/,"г Москва, пер Сивцев Вражек, д 42 стр 5",55.7469472,37.5870548
+640,https://moskvichmag.ru/restorany-i-bary/ot-varenichnoj-vkusno-na-mayakovke-veet-sovetskim-yaltinskim-sanatoriem-chto-ne-tak-ploho/,"г Москва, ул Садовая-Триумфальная, д 4/10",55.7704423,37.5992276
+641,https://moskvichmag.ru/restorany-i-bary/pervoe-demokratichnoe-zavedenie-kofemanii-pytaetsya-zaigryvat-s-molodezhyu-mestami-neuklyuzhe/,"г Москва, ул Лесная, д 20",55.7801994,37.5929871
+643,https://moskvichmag.ru/restorany-i-bary/utka-po-pekinski-v-three-ducks-v-depo-tak-horosha-chto-hochetsya-ot-zhadnosti-vzyat-vse-tri/,"г Москва, платф Депо",55.6745907,37.7285911
+644,https://moskvichmag.ru/restorany-i-bary/oversalad-na-sretenke-bystraya-eda-v-moskve-nakonets-to-stanovitsya-zdorovoj/,"г Москва, ул Сретенка, д 25",55.7696336,37.6322195
+645,https://moskvichmag.ru/restorany-i-bary/prawns-otkryl-novyj-korner-na-usachevskom-i-my-uzhe-tam/,"г Москва, пер Усачёвский",55.7271354,37.5672254
+646,https://moskvichmag.ru/restorany-i-bary/golubka-pereletela-na-m-dmitrovku-no-privychek-ne-izmenila/,"г Москва, ул Малая Дмитровка, д 3",55.7669344,37.6059165
+647,https://moskvichmag.ru/restorany-i-bary/kraby-kutaby-pervyj-otkryvshijsya-restoran-v-depo-vyglyadit-dorogo-no-predlagaet-kutaby-po-90-rublej/,"г Москва, ул Лесная, д 20 стр 4",55.779474,37.59189
+648,https://moskvichmag.ru/restorany-i-bary/bar-probka-i-shtopor-na-patriarshih-mal-no-tak-horosh-chto-ne-zhal-i-posheptatsya/,"г Москва, пер Большой Патриарший, д 8 стр 1",55.7629347,37.5927075
+649,https://moskvichmag.ru/restorany-i-bary/v-depo-rabotaet-cheesemania-dlya-lyubitelej-vo-vse-dobavlyat-syr/,"г Москва, ул Лесная, д 20",55.7801994,37.5929871
+650,https://moskvichmag.ru/restorany-i-bary/v-ne-putaj-berega-na-tsentralnom-rynke-u-mollyuskov-sochnye-teltsa/,"г Москва, ул Центральная",55.6469176,37.4635832
+651,https://moskvichmag.ru/restorany-i-bary/v-novom-restorane-carne-horoshee-myaso-po-vysokim-tsenam-kak-raz-dlya-patriarshih/,"г Москва, пер Спиридоньевский, д 12/9",55.7628469,37.5961678
+652,https://moskvichmag.ru/restorany-i-bary/v-turetskom-ottoman-na-pyatnitskoj-tochno-horosho-razbirayutsya-v-myase/,"г Москва, ул Пятницкая, д 24",55.7411687,37.6282269
+653,https://moskvichmag.ru/restorany-i-bary/govorim-betmen-i-uzbeki-podrazumevaem-camsu-i-plov-v-depo/,"г Москва, ул Лесная, д 20",55.7801994,37.5929871
+654,https://moskvichmag.ru/restorany-i-bary/kak-vam-salat-tsezar-v-kachestve-deserta/,"г Москва, б-р Рождественский, д 1",55.7668089,37.6242515
+655,https://moskvichmag.ru/restorany-i-bary/kafe-gostinaya-gretel-na-b-dmitrovke-prigodno-tolko-dlya-sobesedovaniya-nyani-i-bolshe-ni-dlya-chego/,"г Москва, ул Дмитровка Б., д 23",55.7658125,37.609886
+656,https://moskvichmag.ru/restorany-i-bary/komu-ushi-edinoroga-v-depo-otkrylas-kofejnya-s-zhizneradostno-skazochnym-frik-fudom/,"г Москва, ул Лесная, д 20",55.7801994,37.5929871
+657,https://moskvichmag.ru/restorany-i-bary/na-kuznetskom-mostu-rabotaet-zakusochnaya-gde-podayut-vkusnyh-grecheskih-bogov/,"г Москва, ул Рождественка, д 5/7 стр 2",55.7612151,37.6232365
+658,https://moskvichmag.ru/restorany-i-bary/na-marosejke-zarabotal-eshhe-odin-restoran-kotoryj-schitaet-sebya-panaziatskim/,"г Москва, ул Маросейка, д 6/8 стр 1",55.7574733,37.6343415
+659,https://moskvichmag.ru/restorany-i-bary/nado-uspet-v-matcha-way-poka-tam-gotovit-otkryvshij-ego-shef-kobayashi-katsuhiko/,"г Москва, б-р Рождественский, д 1",55.7668089,37.6242515
+660,https://moskvichmag.ru/restorany-i-bary/obedenie-nedeli-makovyj-grib-iz-remy-kitchen-bakery/,"г Москва, ул Бронная М., д 2",55.759162,37.5980743
+661,https://moskvichmag.ru/restorany-i-bary/odin-vanilnyj-ekler-iz-kler-stoit-vseh-pozdravlenij-s-zhenskim-prazdnikom-i-tsvetov-zaodno/,"г Москва, ул Центральная",55.6469176,37.4635832
+662,https://moskvichmag.ru/restorany-i-bary/posle-pohoda-v-leo-hochetsya-stat-vegetariantsem-kak-tolstoj-v-kontse-zhizni/,"г Москва, ул Льва Толстого, д 23 стр 8",55.7347125,37.5852972
+663,https://moskvichmag.ru/restorany-i-bary/lancheria-by-bruno-%d0%be%d0%b1%d1%8a%d0%b5%d0%b4%d0%b8%d0%bd%d0%b8%d0%bb%d0%b0-%d0%b4%d0%b2%d0%b0-%d0%bd%d0%b5%d1%81%d0%be%d0%b2%d0%bc%d0%b5%d1%81%d1%82%d0%b8%d0%bc%d1%8b%d1%85-%d1%84%d0%be%d1%80/,"г Москва, ул Нижняя Сыромятническая, д 10 стр 4",55.7521059,37.6699201
+664,https://moskvichmag.ru/restorany-i-bary/%d0%b2-bigati-bar-%d0%bd%d0%b0-%d0%b7%d0%b5%d0%bc%d0%bb%d1%8f%d0%bd%d0%be%d0%bc-%d0%b2%d0%b0%d0%bb%d1%83-%d0%ba%d1%80%d0%be%d0%bc%d0%b5-%d0%b2%d0%b8%d0%bd-%d0%b5%d1%81%d1%82%d1%8c-%d0%be%d1%82%d0%bb/,"г Москва, ул Земляной Вал, д 1/4 стр 1",55.7636679,37.6575443
+666,https://moskvichmag.ru/restorany-i-bary/%d0%b2-%d1%82%d0%b8%d0%bb%d1%8c%d0%b4%d0%b5-%d1%82%d0%b5%d0%bf%d0%b5%d1%80%d1%8c-%d0%bf%d0%be%d0%b4%d0%b0%d1%8e%d1%82-%d0%b8%d0%b4%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d1%81%d0%b8/,"г Москва, пер Сытинский, д 5",55.7643143,37.6013124
+667,https://moskvichmag.ru/restorany-i-bary/%d0%b2-%d0%bc%d0%b0%d0%bb%d0%be%d0%bc-%d0%ba%d0%b8%d1%81%d0%bb%d0%be%d0%b2%d1%81%d0%ba%d0%be%d0%bc-%d0%be%d1%82%d0%ba%d1%80%d1%8b%d0%bb%d1%81%d1%8f-%d0%bc%d0%b8%d1%8f%d0%b4%d0%b7%d0%b0%d0%ba/,"г Москва, пер Малый Кисловский, д 7 стр 1",55.7555015,37.6023472
+669,https://moskvichmag.ru/restorany-i-bary/%d0%b2-%d1%81%d1%8b%d1%82%d0%b8%d0%bd%d1%81%d0%ba%d0%be%d0%bc-%d0%bf%d0%b5%d1%80%d0%b5%d1%83%d0%bb%d0%ba%d0%b5-%d0%be%d0%b1%d0%bd%d0%b0%d1%80%d1%83%d0%b6%d0%b5%d0%bd-%d0%b8%d0%b4%d0%b5%d0%b0%d0%bb/,"г Москва, пер Сытинский, д 4",55.7640501,37.6023888
+670,https://moskvichmag.ru/restorany-i-bary/v-kantine-bara-veladora-tri-raza-v-nedelyu-poda/,"г Москва, ул Покровка, д 2/1 стр 1",55.758026,37.638976
+672,https://moskvichmag.ru/restorany-i-bary/%d0%b5%d0%b4%d0%b8%d0%bd%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d1%8b%d0%b9-%d0%bc%d0%b8%d0%bd%d1%83%d1%81-gilo-dim-sum-%d0%bd%d0%b0-%d1%86%d0%b5%d0%bd%d1%82%d1%80%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc/,"г Москва, б-р Рождественский, д 1",55.7668089,37.6242515
+673,https://moskvichmag.ru/restorany-i-bary/%d0%b5%d1%81%d0%bb%d0%b8-%d0%b2%d1%8b-%d0%bd%d0%b5-%d0%ba%d0%b0%d1%82%d0%b0%d0%b5%d1%82%d0%b5%d1%81%d1%8c-%d0%bd%d0%b0-%d0%ba%d0%be%d0%bd%d1%8c%d0%ba%d0%b0%d1%85-%d0%b2-%d0%bf%d0%b0%d1%80%d0%ba%d0%b5/,"г Москва, пер Хитровский",55.753802,37.6446952
+674,https://moskvichmag.ru/restorany-i-bary/%d0%ba%d0%b0%d0%ba-%d1%8d%d1%82%d0%be-%d0%bc%d1%8b-%d1%80%d0%b0%d0%bd%d1%8c%d1%88%d0%b5-%d0%bd%d0%b5-%d0%bf%d0%b8%d0%bb%d0%b8-%d0%ba%d0%be%d0%ba%d1%82%d0%b5%d0%b9%d0%bb%d0%b8-%d0%b8%d0%b7-%d0%bc%d0%be/,"г Москва, ул Бронная М., д 10",55.7606455,37.596664
+675,https://moskvichmag.ru/restorany-i-bary/%d0%ba%d0%b0%d0%ba%d0%be%d0%b9-%d0%ba%d0%be%d0%bd%d1%84%d0%bb%d0%b8%d0%ba%d1%82-%d0%bf%d0%be%d0%ba%d0%be%d0%bb%d0%b5%d0%bd%d0%b8%d0%b9-%d0%b2-%d0%b7%d0%b8%d0%bd%d0%b7%d0%b8%d0%b2%d0%b5/,"г Москва, б-р Покровский, д 2/14",55.758889,37.645384
+676,https://moskvichmag.ru/restorany-i-bary/%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%b5-%d0%b0%d0%b2%d0%be%d0%ba%d0%b0%d0%b4%d0%be-%d0%b2-%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b5-%d1%82%d0%b5%d0%bf%d0%b5%d1%80%d1%8c-%d0%bd%d0%b0%d0%b4%d0%be-%d0%b7%d0%b0/,"г Москва, ул Бронная М., д 20 стр 1",55.7622734,37.5957688
+677,https://moskvichmag.ru/restorany-i-bary/%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%b1%d0%be%d0%bb%d1%8c%d1%88%d0%b5-%d1%82%d0%b0%d0%ba%d0%b8%d1%85-%d0%b8%d0%b7%d0%b0%d0%ba%d0%b0%d1%8f-%d0%b1%d0%b0%d1%80%d0%be/,"г Москва, ул Большая Никитская",55.7573616,37.5991529
+679,https://moskvichmag.ru/restorany-i-bary/%d0%bd%d0%b0-%d0%bf%d0%b0%d1%82%d1%80%d0%b8%d0%b0%d1%80%d1%88%d0%b8%d1%85-%d0%be%d1%82%d0%ba%d1%80%d1%8b%d0%bb%d0%be%d1%81%d1%8c-%d0%be%d1%81%d0%be%d0%b1%d0%be%d0%b5-%d0%bc%d0%b5%d1%81%d1%82/,"г Москва, пер Трёхпрудный, д 11/13 стр 2",55.7654224,37.5957369
+680,https://moskvichmag.ru/restorany-i-bary/%d0%bd%d0%b0-%d0%bf%d0%be%d0%ba%d1%80%d0%be%d0%b2%d0%ba%d0%b5-%d1%82%d0%b5%d0%bf%d0%b5%d1%80%d1%8c-%d0%bf%d1%80%d0%be%d0%b4%d0%b0%d1%8e%d1%82-%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d1%89%d0%b8%d0%b5/,"г Москва, ул Покровка, д 16ПО",55.7592306,37.6457868
+682,https://moskvichmag.ru/restorany-i-bary/%d0%bd%d0%be%d0%b2%d0%be%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e-%d1%81-%d0%b8%d0%ba%d1%80%d0%be%d0%b9-%d0%be%d1%82-%d0%b1%d0%be%d1%81%d1%82%d0%be%d0%bd%d0%b0-%d0%ba-%d0%bf%d1%8f%d1%82%d0%b8%d0%bb/,"г Москва, ул Лесная, д 7",55.7787345,37.5880311
+683,https://moskvichmag.ru/restorany-i-bary/%d0%bf%d0%b5%d1%80%d0%b5%d0%b4-%d0%bd%d0%be%d0%b2%d1%8b%d0%bc-%d0%b3%d0%be%d0%b4%d0%be%d0%bc-%d0%b7%d0%b0%d0%b9%d1%82%d0%b8-%d0%b2-%d0%ba%d0%be%d0%bd%d0%b4%d0%b8%d1%82%d0%b5%d1%80%d1%81%d0%ba%d1%83/,"г Москва, Филимонковское п, д Пушкино",55.5622827,37.354272
+684,https://moskvichmag.ru/restorany-i-bary/restorannyj-kritik-svetlana-kesoyan-o/,"г Москва, ул Тверская, д 27",55.7682172,37.5983938
+685,https://moskvichmag.ru/restorany-i-bary/%d0%b2-%d0%b1%d0%be%d0%bb%d1%8c%d1%88%d0%be%d0%bc-%d0%ba%d0%be%d0%b7%d0%b8%d1%85%d0%b8%d0%bd%d1%81%d0%ba%d0%be%d0%bc-%d0%be%d1%82%d0%ba%d1%80%d1%8b%d0%bb%d1%81%d1%8f-%d0%b4%d0%b6%d0%b0%d0%b7%d0%be/,"г Москва, пер Козихинский Б., д 9",55.7634656,37.5961678
+686,https://moskvichmag.ru/restorany-i-bary/%d0%b2-%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8%d0%b9-castle-dish-%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d0%b7%d0%bb%d0%b8-%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b5-%d0%b2-%d0%bc%d0%b8%d1%80%d0%b5/,"г Москва, ул Садовая-Черногрязская, д 10",55.7665733,37.6519313
+687,https://moskvichmag.ru/restorany-i-bary/%d0%b2%d0%be-%d0%b2%d1%82%d0%be%d1%80%d0%be%d0%bc-%d0%bf%d1%8c%d1%8f%d0%bd%d0%be%d0%bc-%d0%ba%d1%80%d0%b0%d0%b1%d0%b5-%d0%b8-%d1%81%d1%87%d0%b0%d1%81%d1%82%d0%bb%d0%b8%d0%b2%d0%be%d0%b9-%d0%ba/,"г Москва, пер Большой Сухаревский, д 6",55.7703597,37.6269174
+689,https://moskvichmag.ru/restorany-i-bary/%d0%b7%d0%b0%d0%bc%d0%b5%d1%87%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f-%d0%b7%d0%b0%d0%b1%d0%b5%d0%b3%d0%b0%d0%bb%d0%be%d0%b2%d0%ba%d0%b0-neon-monkey-%d0%bf%d1%80%d0%b0%d0%b2%d0%b4/,"г Москва, ул Дмитровка Б., д 32 стр 2",55.7654901,37.6115184
+690,https://moskvichmag.ru/restorany-i-bary/%d0%bd%d0%b0-%d0%bc%d0%b0%d1%80%d0%be%d1%81%d0%b5%d0%b9%d0%ba%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d0%b1%d0%b0%d1%80-%d1%81-70-%d1%81%d0%be%d1%80%d1%82%d0%b0%d0%bc%d0%b8-%d0%b3/,"г Москва, ул Маросейка, д 15",55.7579723,37.6367992
+691,https://moskvichmag.ru/restorany-i-bary/%d0%bd%d0%b0-%d0%bf%d0%b0%d1%82%d1%80%d0%b8%d0%b0%d1%80%d1%88%d0%b8%d1%85-%d0%be%d1%82%d0%ba%d1%80%d1%8b%d0%bb%d1%81%d1%8f-less-sugar-bar-%d1%87%d0%b5%d0%b9-%d0%ba%d0%be%d0%bd%d1%86%d0%b5%d0%bf%d1%82/,"г Москва, ул Бронная М., д 24 стр 1",55.7632936,37.5946932
+692,https://moskvichmag.ru/restorany-i-bary/%d0%bd%d0%b0-%d1%82%d1%80%d1%83%d0%b1%d0%bd%d0%be%d0%b9-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d0%bf%d0%b0%d0%b1-%d1%81%d0%b2%d0%b8%d0%bd%d1%8c%d1%8f-%d0%b8-%d1%80%d0%be%d0%b7%d0%b0/,"г Москва, ул Трубная, д 14",55.7689991,37.6249581
+693,https://moskvichmag.ru/restorany-i-bary/na-tsentralnom-rynke-rabotaet-tryufel/,"г Москва, ул Центральная",55.6469176,37.4635832
+694,https://moskvichmag.ru/restorany-i-bary/%d0%bd%d0%be%d0%b2%d0%b0%d1%8f-%d1%87%d0%b5%d0%b1%d1%83%d1%80%d0%b5%d1%87%d0%bd%d0%b0%d1%8f-%d0%b2%d0%be-%d0%b4%d0%b2%d0%be%d1%80%d0%b0%d1%85-%d1%81%d1%82%d0%be%d0%bb%d0%b5%d1%88%d0%bd%d0%b8%d0%ba/,"г Москва, пер Столешников",55.7625636,37.6135616
+696,https://moskvichmag.ru/restorany-i-bary/%d0%bf%d0%be%d0%bc%d0%b5%d1%88%d0%b0%d0%bd%d1%8b-%d0%bd%d0%b0-%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d0%be%d0%bc-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b8-%d0%b4%d0%bb%d1%8f-%d0%b2%d0%b0%d1%81-%d0%be/,"г Москва, пер Усачёвский",55.7271354,37.5672254
+698,https://moskvichmag.ru/restorany-i-bary/%d1%80%d0%b5%d1%81%d1%82%d0%be%d1%80%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%ba-%d1%81%d0%b2%d0%b5%d1%82%d0%bb%d0%b0%d0%bd%d0%b0-%d0%ba%d0%b5%d1%81%d0%be%d1%8f%d0%bd-%d0%bd-3/,"г Москва, сквер Антона Чехова",55.7540584,37.62049
+699,https://moskvichmag.ru/restorany-i-bary/%d1%80%d0%b5%d1%81%d1%82%d0%be%d1%80%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%ba-%d1%81%d0%b2%d0%b5%d1%82%d0%bb%d0%b0%d0%bd%d0%b0-%d0%ba%d0%b5%d1%81%d0%be%d1%8f%d0%bd-%d0%bd-14/,"г Москва, ул Кузнецкий Мост, д 3",55.7613929,37.6171182
+702,https://moskvichmag.ru/restorany-i-bary/%d1%80%d0%b5%d1%81%d1%82%d0%be%d1%80%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%ba-%d1%81%d0%b2%d0%b5%d1%82%d0%bb%d0%b0%d0%bd%d0%b0-%d0%ba%d0%b5%d1%81%d0%be%d1%8f%d0%bd-%d0%bd-2/,"г Москва, пер Благовещенский, д 1А",55.767315,37.59768
+703,https://moskvichmag.ru/restorany-i-bary/%d1%80%d0%b5%d1%81%d1%82%d0%be%d1%80%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%ba-%d1%81%d0%b2%d0%b5%d1%82%d0%bb%d0%b0%d0%bd%d0%b0-%d0%ba%d0%b5%d1%81%d0%be%d1%8f%d0%bd-%d1%81/,"г Москва, пер Плотников",55.7461459,37.5884522
+704,https://moskvichmag.ru/restorany-i-bary/%d1%81%d0%bc%d0%b5%d0%bb%d1%8b%d0%b9-%d0%ba%d1%83%d0%b1%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d0%b9-%d0%b1%d0%be%d1%80%d1%89-%d0%be%d1%82-%d0%ba%d0%be%d1%82%d0%be%d1%80%d0%be%d0%b3%d0%be-%d0%b2%d1%8b-%d0%b2/,"г Москва, тер инновационного центра Сколково, ул Адама Смита",55.6972879,37.3564687
+705,https://moskvichmag.ru/restorany-i-bary/%d1%83%d0%bd%d0%b8%d0%ba%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d1%81%d0%bb%d1%83%d1%87%d0%b0%d0%b9-%d0%b2-%d0%b1%d0%b0%d1%80%d0%b5-blush-%d0%bf%d0%be%d0%b4%d0%b0%d1%8e%d1%82-%d0%b1%d0%b8%d0%b7%d0%bd/,"г Москва, пер Даев, д 2",55.7703043,37.6342624
+706,https://moskvichmag.ru/restorany-i-bary/surf-coffee-%d1%81-%d1%82%d0%b0%d0%ba%d0%b8%d0%bc-%d1%81%d0%bb%d0%b0%d0%b4%d0%ba%d0%b8%d0%bc-%d0%bb%d0%b0%d1%82%d1%82%d0%b5-%d0%be%d1%82-%d0%ba%d0%be%d1%82%d0%be%d1%80%d0%be%d0%b3%d0%be-%d1%81%d1%83/,"г Москва, ул Тверская, д 25",55.7678251,37.5992648
+707,https://moskvichmag.ru/restorany-i-bary/%d0%b2-bjorn-%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%b0%d0%b3%d0%b0%d1%8e%d1%82-%d1%82%d0%b0%d1%80%d1%82%d0%b0%d1%80-%d0%b8%d0%b7-%d0%b5%d0%bb%d0%ba%d0%b8/,"г Москва, ул Пятницкая, д 3/4",55.7455713,37.6269852
+708,https://moskvichmag.ru/restorany-i-bary/idite-v-novyj-happy-end-kitchen-bar-na-patriarshih-esli-l/,"г Москва, пер Малый Патриарший",55.763381,37.5913014
+709,https://moskvichmag.ru/restorany-i-bary/%d1%80%d0%b5%d1%81%d1%82%d0%be%d1%80%d0%b0%d0%bd%d0%bd%d1%8b%d0%b9-%d0%ba%d1%80%d0%b8%d1%82%d0%b8%d0%ba-%d1%81%d0%b2%d0%b5%d1%82%d0%bb%d0%b0%d0%bd%d0%b0-%d0%ba%d0%b5%d1%81%d0%be%d1%8f%d0%bd-%d0%bd-10/,"г Москва, ул Трубная, д 21",55.7705205,37.6249784
+710,https://moskvichmag.ru/restorany-i-bary/jacqueline-na-arbate-raspolagaet-k-dolgim-solidnym-posidelkam-i-zhirnoj-frantsuzskoj-ede/,"г Москва, ул Арбат, д 1",55.7517309,37.5993131
+711,https://moskvichmag.ru/restorany-i-bary/bar-panton-otkrylsya-v-ne-samom-ochevidnom-meste-no-koktejl-naryadnyj-okazalsya-ostroumnym/,"г Москва, ул Новослободская, д 54 стр 1",55.7880454,37.5934366
+712,https://moskvichmag.ru/restorany-i-bary/v-nosugar-bakery-na-belorusskoj-mozhno-obedatsya-pirozhnymi-sovershenno-bez-ugryzenij-sovesti/,"г Москва, ул Грузинский Вал, д 11 стр 4",55.7739234,37.5779008
+713,https://moskvichmag.ru/restorany-i-bary/v-bistro-de-torino-kuhnya-severo-zapada-italii-okna-na-vshe-publika-vlyublennaya-molodezh/,"г Москва, ул Мясницкая, д 14/2 стр 1",55.760753,37.6320666
+714,https://moskvichmag.ru/restorany-i-bary/v-sredizemnomorskom-stay-na-frunzenskoj-vkusno-dorogo-pusto-i-po-bezhevomu-skuchno/,"г Москва, ул Трубецкая, д 10",55.7271299,37.576097
+715,https://moskvichmag.ru/restorany-i-bary/vegetarianskie-tsiniki-na-mayakovskoj-delayut-vse-chtoby-my-zabyli-o-dolgoj-moskovskoj-zime/,"г Москва, ул 2-я Тверская-Ямская, д 6 стр 2",55.7710452,37.5958128
+717,https://moskvichmag.ru/restorany-i-bary/olen-s-shishkoj-i-koktejl-kabarga-v-alhimiuse-esh-kak-v-tundre-tak-i-bylo-zadumano/,"г Москва, ул 1-я Тверская-Ямская, д 4",55.7714269,37.594219
+718,https://moskvichmag.ru/restorany-i-bary/ponchiki-bulki-i-maritotstso-v-zoe-sobirayut-na-myasnitskoj-ocheredi/,"г Москва, ул Мясницкая, д 13 стр 20",55.7634718,37.6340684
+719,https://moskvichmag.ru/restorany-i-bary/severnaya-kuhnya-ot-krasnoyarskoj-komandy-v-0-75-please-vse-obyasnyaet-pro-skrepy-patriarshih/,"г Москва, пер Ермолаевский, д 7",55.7643231,37.5904709
+720,https://moskvichmag.ru/restorany-i-bary/farang-na-m-nikitskoj-posle-ocherednogo-perezapuska-stal-blizhnevostochnym-no-eto-ne-pomoglo/,"г Москва, ул Малая Никитская, д 24 стр 1",55.7592814,37.5874297
+721,https://moskvichmag.ru/restorany-i-bary/miss-you-arkadiya-novikova-prizyvaet-skuchat-hot-po-sosiske-v-teste-hot-po-vogue-cafe/,"г Москва, ул Петровка, д 12",55.7628366,37.6180085
+722,https://moskvichmag.ru/restorany-i-bary/borshh-v-pirozhke-na-marosejke-vernyj-podkop-k-kornyam-skrepam-i-huliganskaya-vyhodka-odnovremenno/,"г Москва, ул Маросейка, д 10/1 стр 1",55.7576476,37.6370637
+724,https://moskvichmag.ru/restorany-i-bary/igristoe-na-krane-i-bitye-ogurtsy-lapshichnaya-tricky-yavilas-na-myasnitskuyu-kak-iz-kino/,"г Москва, ул Мясницкая, д 42 стр 2",55.7669217,37.6423551
+725,https://moskvichmag.ru/restorany-i-bary/aziatskij-moon-na-novinskom-podhodit-dlya-sereznyh-muzhchin-ne-ustavshih-ot-sushi/,"г Москва, б-р Новинский",55.7534154,37.5833405
+726,https://moskvichmag.ru/restorany-i-bary/v-bimba-na-myasnitskoj-podayut-pastu-i-pitstsu-po-tsenam-kotoryh-v-moskve-uzhe-net/,"г Москва, ул Мясницкая, д 13",55.7625051,37.63413
+727,https://moskvichmag.ru/restorany-i-bary/v-shmake-buterbrody-shmaki-rasschitany-na-publiku-srednego-klassa-i-vozrasta/,"г Москва, проезд Лубянский, д 27/1 стр 1",55.7541648,37.6351465
+728,https://moskvichmag.ru/restorany-i-bary/vtoroe-ava-bistro-sovmeshhaet-babushkinu-posudu-s-golubtsami-s-krabom-i-desertom-tvorozhnyj-syrok/,"г Москва, б-р Цветной, д 2",55.7679448,37.6234744
+729,https://moskvichmag.ru/restorany-i-bary/italyanskij-oltremare-s-pastoj-za-4500-rublej-ne-daet-zabyt-chto-vy-na-savvinskoj-naberezhnoj/,"г Москва, наб Саввинская, д 13",55.7358041,37.567613
+730,https://moskvichmag.ru/restorany-i-bary/novoe-jinju-bistro-na-usacheva-pohozhe-na-uyutnyj-restoran-otkrytyj-znakomymi-v-gostinoj/,"г Москва, ул Усачёва, д 15А",55.725534,37.570501
+733,https://moskvichmag.ru/restorany-i-bary/posle-firmennogo-rakleta-v-kornere-delo-v-syre-na-usachevskom-hochetsya-prilech-na-divan/,"г Москва, ул Усачёва, д 26",55.727506,37.567707
+734,https://moskvichmag.ru/restorany-i-bary/posle-yaponskogo-sendvicha-katsusando-iz-joi-izakaya-est-ne-zahochetsya-chasov-shest/,"г Москва, ул Грузинский Вал, д 11 стр 3",55.7743318,37.5789959
+735,https://moskvichmag.ru/restorany-i-bary/restoran-gussi-perezapustilsya-no-tak-i-ne-reshil-kuda-vas-priglasit-domoj-ili-na-dachu/,"г Москва, ул Долгоруковская, д 25 стр 1",55.7765809,37.6024258
+736,https://moskvichmag.ru/restorany-i-bary/cmena-kafe-v-muzee-sovremennogo-iskusstva-v-ermolaevskom-ne-poshla-emu-na-polzu/,"г Москва, пер Ермолаевский, д 17",55.765627,37.5921875
+737,https://moskvichmag.ru/restorany-i-bary/vino-i-drugie-lekarstva-delaet-vse-chtoby-vy-pochuvstvovali-sebya-vo-frantsii-xix-veka/,"г Москва, пр-кт Комсомольский, д 42 стр 1",55.7212104,37.573062
+738,https://moskvichmag.ru/restorany-i-bary/zhan-zhak-rasteryal-v-rebrendinge-dushnyj-ugar-proshlyh-let-no-sohranil-vernost-frantsii/,"г Москва, б-р Никитский, д 12",55.7553212,37.6005218
+739,https://moskvichmag.ru/restorany-i-bary/kafe-na-uglu-cream-soda-rabotaet-teper-na-beloj-ploshhadi-v-piku-sosednemu-hlebu-nasushhnomu/,"г Москва, пл Болотная, д 5",55.7452757,37.6176264
+740,https://moskvichmag.ru/restorany-i-bary/v-udon-noodle-bar-na-usachevskom-lapsha-so-stejkom-machete-horosha-s-ribaem-ne-ochen/,"г Москва, ул Усачёва, д 26",55.727506,37.567707
+741,https://moskvichmag.ru/restorany-i-bary/kofejni-v-magazinah-teper-interesnee-setevyh-naprimer-face2face-na-krasnoj-presne/,"г Москва, пер Столярный, д 3 к 8",55.7631476,37.5684832
+742,https://moskvichmag.ru/restorany-i-bary/kofejnya-murph-na-b-dmitrovke-pohozha-na-modnuyu-stolovuyu-progressivnogo-universiteta/,"г Москва, ул Дмитровка Б., д 32 стр 1",55.7653888,37.6110557
+743,https://moskvichmag.ru/restorany-i-bary/panaziatskoe-bistro-umami-vpolne-podhodit-chtoby-sogretsya-esli-okazalis-v-luzhnikah/,"г Москва, ул Лужники, д 24 стр 60",55.7127088,37.5664715
+744,https://moskvichmag.ru/restorany-i-bary/pereehavshij-v-hamovniki-eggsellent-byl-barbi-raem-eshhe-do-vsej-barbimanii/,"г Москва, пер Несвижский, д 2",55.7320645,37.5876344
+745,https://moskvichmag.ru/restorany-i-bary/smes-yaponskoj-i-peruanskoj-kuhni-v-ikura-izakaya-nikkei-to-chto-zasluzhila-moskva-2020-h/,"г Москва, б-р Рождественский, д 1",55.7668089,37.6242515
+746,https://moskvichmag.ru/restorany-i-bary/u-rockstar-dogs-ne-poluchilos-dazhe-takoe-prostoe-zimnee-blyudo-kak-morozhenoe-s-bekonom/,"г Москва, ул Солянка, д 1/2",55.7542275,37.6373822
+747,https://moskvichmag.ru/restorany-i-bary/v-historia-uilliama-lamberti-uyutno-naryadno-zagadochno-dorogo-ochen-vkusno-i-dazhe-umno/,"г Москва, ул Большая Никитская, д 58",55.7586813,37.5865894
+748,https://moskvichmag.ru/restorany-i-bary/v-le-pere-nagy-na-danilovskom-po-frantsuzski-zhirno-dorogo-i-vkusno/,"г Москва, ул Мытная, д 74",55.712116,37.6206142
+749,https://moskvichmag.ru/restorany-i-bary/v-masa-na-nikitskom-shef-meksikanets-gotovit-komfortnuyu-edu-kotoraya-ne-mozhet-nadoest/,"г Москва, б-р Никитский, д 12",55.7553212,37.6005218
+750,https://moskvichmag.ru/restorany-i-bary/v-bare-mashenka-i-negroni-mashenkiny-slezy-eto-uha-a-mashenkiny-gady-langustiny/,"г Москва, ул Новослободская",55.7858299,37.5949324
+751,https://moskvichmag.ru/restorany-i-bary/v-novom-menyu-mo-friends-soblyuden-balans-mezhdu-zhirnym-i-poleznym-i-ekzoticheskim-i-davno-znakomym/,"г Москва, ул Петровские Линии, д 1",55.7640756,37.6179441
+752,https://moskvichmag.ru/restorany-i-bary/v-novom-menyu-zionist-podkupayut-kugel-bejgl-s-namazkoj-iz-shprot-i-tseny-300-500-rublej/,"г Москва, ул Покровка, д 2/1 стр 1",55.758026,37.638976
+753,https://moskvichmag.ru/restorany-i-bary/v-pasta-bare-mary-wong-na-kuznetskom-kormyat-bystro-i-nedorogo-esli-eto-dlya-vas-glavnoe/,"г Москва, ул Кузнецкий Мост, д 19 стр 1",55.7625355,37.6257657
+754,https://moskvichmag.ru/restorany-i-bary/glavnye-dostoprimechatelnosti-kornera-beyond-v-metropolise-nahodyatsya-na-vitrine-so-sladostyami/,"г Москва, ш Ленинградское",55.883939,37.441938
+755,https://moskvichmag.ru/restorany-i-bary/edinstvennyj-minus-lapshichnoj-lan-ma-na-pokrovke-chto-ee-net-po-vsej-moskve/,"г Москва, ул Покровка, д 3/7 стр 1",55.7586565,37.6402573
+756,https://moskvichmag.ru/restorany-i-bary/novoe-bistro-naomi-smelo-predlagaet-frantsuzskie-retsepty-s-elementami-kolonialnoj-kuhni/,"г Москва, ул Лесная, д 9",55.7789788,37.5885143
+757,https://moskvichmag.ru/restorany-i-bary/pasta-s-kabanom-ekler-s-krabom-v-bardot-na-ostozhenke-novoe-menyu-i-nado-bezhat/,"г Москва, ул Остоженка, д 5",55.7432701,37.6013747
+758,https://moskvichmag.ru/restorany-i-bary/spasayushhie-nas-ot-holoda-napitki-dusheparka-i-zhzhenka-podayutsya-v-zaryade-v-samovarah/,"г Москва, ул Варварка, соор 6",55.7528797,37.6285091
+759,https://moskvichmag.ru/restorany-i-bary/tsel-gt-coffee-x-edomo-ne-stolko-napoit-vas-kofe-skolko-prodat-vam-stol-pod-nim/,"г Москва, ул Плющиха, д 37",55.7410445,37.57754
